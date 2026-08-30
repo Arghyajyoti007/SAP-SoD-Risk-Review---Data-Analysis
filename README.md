@@ -16,6 +16,8 @@ Embedded storyline: higher baseline exposure -> moderate improvement -> some new
 - 08_risk_review_master.csv — annual review reference
 - 06_data_dictionary.csv — source-to-Gold mapping
 
+<img width="720" height="632" alt="image" src="https://github.com/user-attachments/assets/80e209e6-5795-4976-9b4e-4511c93586ac" />
+
 ## Target Gold model
 Fact_SoDConflict
 Dim_User
