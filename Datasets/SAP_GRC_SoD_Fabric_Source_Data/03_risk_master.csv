@@ -1,0 +1,121 @@
+RiskKey,RiskID,RiskName,RiskLevel,BusinessProcess,RiskDescription,Function1,Function2
+1,RISK_001,Vendor Master Maintenance vs Vendor Payment,Critical,Procure-to-Pay,A user can create or modify vendor master data and execute payments.,Create/Change Vendor,Execute Vendor Payment
+2,RISK_002,Purchase Order Creation vs Goods Receipt,Low,Procure-to-Pay,A user can create purchasing commitments and independently confirm receipt.,Create Purchase Order,Post Goods Receipt
+3,RISK_003,Purchase Order vs Invoice Processing,Medium,Procure-to-Pay,A user can create purchasing documents and process the related invoice.,Create Purchase Order,Process Vendor Invoice
+4,RISK_004,Vendor Master vs Invoice Processing,High,Procure-to-Pay,A user can maintain vendor data and process invoices against that vendor.,Maintain Vendor Master,Process Vendor Invoice
+5,RISK_005,Journal Entry vs Financial Posting Approval,Low,Record-to-Report,A user can prepare and approve financial postings without independent review.,Create Journal Entry,Approve Financial Posting
+6,RISK_006,Journal Entry vs Period Close,Medium,Record-to-Report,A user can post entries and perform period-close activities.,Post Journal Entry,Execute Period Close
+7,RISK_007,GL Master Data vs Journal Posting,Low,Record-to-Report,A user can modify account master data and post transactions.,Maintain GL Master Data,Post Journal Entry
+8,RISK_008,Customer Master vs Cash Application,High,Order-to-Cash,A user can maintain customer data and apply incoming cash.,Maintain Customer Master,Apply Customer Receipts
+9,RISK_009,Sales Order vs Billing,Medium,Order-to-Cash,A user can create sales orders and billing documents.,Create Sales Order,Create Customer Billing
+10,RISK_010,Sales Order vs Credit Memo,Critical,Order-to-Cash,A user can create sales orders and credit memos.,Create Sales Order,Create Credit Memo
+11,RISK_011,Employee Master vs Payroll Processing,Critical,Hire-to-Retire,A user can change employee master data and execute payroll.,Maintain Employee Master,Execute Payroll
+12,RISK_012,Employee Master vs Compensation,High,Hire-to-Retire,A user can change employee records and compensation information.,Maintain Employee Master,Maintain Compensation
+13,RISK_013,User Administration vs Role Assignment,Low,IT Access Administration,A user can administer accounts and assign privileged roles.,Maintain User Accounts,Assign Security Roles
+14,RISK_014,Role Administration vs User Provisioning,Low,IT Access Administration,A user can modify roles and provision access.,Maintain Security Roles,Provision User Access
+15,RISK_015,Security Configuration vs User Administration,Medium,IT Access Administration,A user can alter security configuration and administer users.,Maintain Security Configuration,Maintain User Accounts
+16,RISK_016,Material Master vs Inventory Adjustment,High,Master Data Management,A user can change material data and independently adjust inventory.,Maintain Material Master,Adjust Inventory
+17,RISK_017,Goods Movement vs Inventory Adjustment,Low,Inventory Management,A user can execute goods movements and inventory adjustments.,Post Goods Movement,Adjust Inventory
+18,RISK_018,Bank Master vs Bank Reconciliation,Medium,Financial Close,A user can change bank master data and reconcile bank activity.,Maintain Bank Master,Perform Bank Reconciliation
+19,RISK_019,Asset Master vs Asset Posting,Low,Financial Close,A user can change asset master data and post asset transactions.,Maintain Asset Master,Post Asset Transaction
+20,RISK_020,Customer Master vs Sales Order,Critical,Sales & Distribution,A user can maintain customer data and create sales orders.,Maintain Customer Master,Create Sales Order
+21,RISK_021,Vendor Master Maintenance vs Vendor Payment,Critical,Procure-to-Pay,A user can create or modify vendor master data and execute payments.,Create/Change Vendor,Execute Vendor Payment
+22,RISK_022,Purchase Order Creation vs Goods Receipt,Low,Procure-to-Pay,A user can create purchasing commitments and independently confirm receipt.,Create Purchase Order,Post Goods Receipt
+23,RISK_023,Purchase Order vs Invoice Processing,Low,Procure-to-Pay,A user can create purchasing documents and process the related invoice.,Create Purchase Order,Process Vendor Invoice
+24,RISK_024,Vendor Master vs Invoice Processing,High,Procure-to-Pay,A user can maintain vendor data and process invoices against that vendor.,Maintain Vendor Master,Process Vendor Invoice
+25,RISK_025,Journal Entry vs Financial Posting Approval,Low,Record-to-Report,A user can prepare and approve financial postings without independent review.,Create Journal Entry,Approve Financial Posting
+26,RISK_026,Journal Entry vs Period Close,Low,Record-to-Report,A user can post entries and perform period-close activities.,Post Journal Entry,Execute Period Close
+27,RISK_027,GL Master Data vs Journal Posting,Medium,Record-to-Report,A user can modify account master data and post transactions.,Maintain GL Master Data,Post Journal Entry
+28,RISK_028,Customer Master vs Cash Application,High,Order-to-Cash,A user can maintain customer data and apply incoming cash.,Maintain Customer Master,Apply Customer Receipts
+29,RISK_029,Sales Order vs Billing,Low,Order-to-Cash,A user can create sales orders and billing documents.,Create Sales Order,Create Customer Billing
+30,RISK_030,Sales Order vs Credit Memo,Critical,Order-to-Cash,A user can create sales orders and credit memos.,Create Sales Order,Create Credit Memo
+31,RISK_031,Employee Master vs Payroll Processing,Critical,Hire-to-Retire,A user can change employee master data and execute payroll.,Maintain Employee Master,Execute Payroll
+32,RISK_032,Employee Master vs Compensation,High,Hire-to-Retire,A user can change employee records and compensation information.,Maintain Employee Master,Maintain Compensation
+33,RISK_033,User Administration vs Role Assignment,Medium,IT Access Administration,A user can administer accounts and assign privileged roles.,Maintain User Accounts,Assign Security Roles
+34,RISK_034,Role Administration vs User Provisioning,Low,IT Access Administration,A user can modify roles and provision access.,Maintain Security Roles,Provision User Access
+35,RISK_035,Security Configuration vs User Administration,Low,IT Access Administration,A user can alter security configuration and administer users.,Maintain Security Configuration,Maintain User Accounts
+36,RISK_036,Material Master vs Inventory Adjustment,High,Master Data Management,A user can change material data and independently adjust inventory.,Maintain Material Master,Adjust Inventory
+37,RISK_037,Goods Movement vs Inventory Adjustment,Low,Inventory Management,A user can execute goods movements and inventory adjustments.,Post Goods Movement,Adjust Inventory
+38,RISK_038,Bank Master vs Bank Reconciliation,Low,Financial Close,A user can change bank master data and reconcile bank activity.,Maintain Bank Master,Perform Bank Reconciliation
+39,RISK_039,Asset Master vs Asset Posting,Medium,Financial Close,A user can change asset master data and post asset transactions.,Maintain Asset Master,Post Asset Transaction
+40,RISK_040,Customer Master vs Sales Order,Critical,Sales & Distribution,A user can maintain customer data and create sales orders.,Maintain Customer Master,Create Sales Order
+41,RISK_041,Vendor Master Maintenance vs Vendor Payment,Critical,Procure-to-Pay,A user can create or modify vendor master data and execute payments.,Create/Change Vendor,Execute Vendor Payment
+42,RISK_042,Purchase Order Creation vs Goods Receipt,Medium,Procure-to-Pay,A user can create purchasing commitments and independently confirm receipt.,Create Purchase Order,Post Goods Receipt
+43,RISK_043,Purchase Order vs Invoice Processing,Low,Procure-to-Pay,A user can create purchasing documents and process the related invoice.,Create Purchase Order,Process Vendor Invoice
+44,RISK_044,Vendor Master vs Invoice Processing,High,Procure-to-Pay,A user can maintain vendor data and process invoices against that vendor.,Maintain Vendor Master,Process Vendor Invoice
+45,RISK_045,Journal Entry vs Financial Posting Approval,Medium,Record-to-Report,A user can prepare and approve financial postings without independent review.,Create Journal Entry,Approve Financial Posting
+46,RISK_046,Journal Entry vs Period Close,Low,Record-to-Report,A user can post entries and perform period-close activities.,Post Journal Entry,Execute Period Close
+47,RISK_047,GL Master Data vs Journal Posting,Low,Record-to-Report,A user can modify account master data and post transactions.,Maintain GL Master Data,Post Journal Entry
+48,RISK_048,Customer Master vs Cash Application,High,Order-to-Cash,A user can maintain customer data and apply incoming cash.,Maintain Customer Master,Apply Customer Receipts
+49,RISK_049,Sales Order vs Billing,Low,Order-to-Cash,A user can create sales orders and billing documents.,Create Sales Order,Create Customer Billing
+50,RISK_050,Sales Order vs Credit Memo,Critical,Order-to-Cash,A user can create sales orders and credit memos.,Create Sales Order,Create Credit Memo
+51,RISK_051,Employee Master vs Payroll Processing,Critical,Hire-to-Retire,A user can change employee master data and execute payroll.,Maintain Employee Master,Execute Payroll
+52,RISK_052,Employee Master vs Compensation,High,Hire-to-Retire,A user can change employee records and compensation information.,Maintain Employee Master,Maintain Compensation
+53,RISK_053,User Administration vs Role Assignment,Low,IT Access Administration,A user can administer accounts and assign privileged roles.,Maintain User Accounts,Assign Security Roles
+54,RISK_054,Role Administration vs User Provisioning,Medium,IT Access Administration,A user can modify roles and provision access.,Maintain Security Roles,Provision User Access
+55,RISK_055,Security Configuration vs User Administration,Low,IT Access Administration,A user can alter security configuration and administer users.,Maintain Security Configuration,Maintain User Accounts
+56,RISK_056,Material Master vs Inventory Adjustment,High,Master Data Management,A user can change material data and independently adjust inventory.,Maintain Material Master,Adjust Inventory
+57,RISK_057,Goods Movement vs Inventory Adjustment,Medium,Inventory Management,A user can execute goods movements and inventory adjustments.,Post Goods Movement,Adjust Inventory
+58,RISK_058,Bank Master vs Bank Reconciliation,Low,Financial Close,A user can change bank master data and reconcile bank activity.,Maintain Bank Master,Perform Bank Reconciliation
+59,RISK_059,Asset Master vs Asset Posting,Low,Financial Close,A user can change asset master data and post asset transactions.,Maintain Asset Master,Post Asset Transaction
+60,RISK_060,Customer Master vs Sales Order,Critical,Sales & Distribution,A user can maintain customer data and create sales orders.,Maintain Customer Master,Create Sales Order
+61,RISK_061,Vendor Master Maintenance vs Vendor Payment,Critical,Procure-to-Pay,A user can create or modify vendor master data and execute payments.,Create/Change Vendor,Execute Vendor Payment
+62,RISK_062,Purchase Order Creation vs Goods Receipt,Low,Procure-to-Pay,A user can create purchasing commitments and independently confirm receipt.,Create Purchase Order,Post Goods Receipt
+63,RISK_063,Purchase Order vs Invoice Processing,Medium,Procure-to-Pay,A user can create purchasing documents and process the related invoice.,Create Purchase Order,Process Vendor Invoice
+64,RISK_064,Vendor Master vs Invoice Processing,High,Procure-to-Pay,A user can maintain vendor data and process invoices against that vendor.,Maintain Vendor Master,Process Vendor Invoice
+65,RISK_065,Journal Entry vs Financial Posting Approval,Low,Record-to-Report,A user can prepare and approve financial postings without independent review.,Create Journal Entry,Approve Financial Posting
+66,RISK_066,Journal Entry vs Period Close,Medium,Record-to-Report,A user can post entries and perform period-close activities.,Post Journal Entry,Execute Period Close
+67,RISK_067,GL Master Data vs Journal Posting,Low,Record-to-Report,A user can modify account master data and post transactions.,Maintain GL Master Data,Post Journal Entry
+68,RISK_068,Customer Master vs Cash Application,High,Order-to-Cash,A user can maintain customer data and apply incoming cash.,Maintain Customer Master,Apply Customer Receipts
+69,RISK_069,Sales Order vs Billing,Medium,Order-to-Cash,A user can create sales orders and billing documents.,Create Sales Order,Create Customer Billing
+70,RISK_070,Sales Order vs Credit Memo,Critical,Order-to-Cash,A user can create sales orders and credit memos.,Create Sales Order,Create Credit Memo
+71,RISK_071,Employee Master vs Payroll Processing,Critical,Hire-to-Retire,A user can change employee master data and execute payroll.,Maintain Employee Master,Execute Payroll
+72,RISK_072,Employee Master vs Compensation,High,Hire-to-Retire,A user can change employee records and compensation information.,Maintain Employee Master,Maintain Compensation
+73,RISK_073,User Administration vs Role Assignment,Low,IT Access Administration,A user can administer accounts and assign privileged roles.,Maintain User Accounts,Assign Security Roles
+74,RISK_074,Role Administration vs User Provisioning,Low,IT Access Administration,A user can modify roles and provision access.,Maintain Security Roles,Provision User Access
+75,RISK_075,Security Configuration vs User Administration,Medium,IT Access Administration,A user can alter security configuration and administer users.,Maintain Security Configuration,Maintain User Accounts
+76,RISK_076,Material Master vs Inventory Adjustment,High,Master Data Management,A user can change material data and independently adjust inventory.,Maintain Material Master,Adjust Inventory
+77,RISK_077,Goods Movement vs Inventory Adjustment,Low,Inventory Management,A user can execute goods movements and inventory adjustments.,Post Goods Movement,Adjust Inventory
+78,RISK_078,Bank Master vs Bank Reconciliation,Medium,Financial Close,A user can change bank master data and reconcile bank activity.,Maintain Bank Master,Perform Bank Reconciliation
+79,RISK_079,Asset Master vs Asset Posting,Low,Financial Close,A user can change asset master data and post asset transactions.,Maintain Asset Master,Post Asset Transaction
+80,RISK_080,Customer Master vs Sales Order,Critical,Sales & Distribution,A user can maintain customer data and create sales orders.,Maintain Customer Master,Create Sales Order
+81,RISK_081,Vendor Master Maintenance vs Vendor Payment,Critical,Procure-to-Pay,A user can create or modify vendor master data and execute payments.,Create/Change Vendor,Execute Vendor Payment
+82,RISK_082,Purchase Order Creation vs Goods Receipt,Low,Procure-to-Pay,A user can create purchasing commitments and independently confirm receipt.,Create Purchase Order,Post Goods Receipt
+83,RISK_083,Purchase Order vs Invoice Processing,Low,Procure-to-Pay,A user can create purchasing documents and process the related invoice.,Create Purchase Order,Process Vendor Invoice
+84,RISK_084,Vendor Master vs Invoice Processing,High,Procure-to-Pay,A user can maintain vendor data and process invoices against that vendor.,Maintain Vendor Master,Process Vendor Invoice
+85,RISK_085,Journal Entry vs Financial Posting Approval,Low,Record-to-Report,A user can prepare and approve financial postings without independent review.,Create Journal Entry,Approve Financial Posting
+86,RISK_086,Journal Entry vs Period Close,Low,Record-to-Report,A user can post entries and perform period-close activities.,Post Journal Entry,Execute Period Close
+87,RISK_087,GL Master Data vs Journal Posting,Medium,Record-to-Report,A user can modify account master data and post transactions.,Maintain GL Master Data,Post Journal Entry
+88,RISK_088,Customer Master vs Cash Application,High,Order-to-Cash,A user can maintain customer data and apply incoming cash.,Maintain Customer Master,Apply Customer Receipts
+89,RISK_089,Sales Order vs Billing,Low,Order-to-Cash,A user can create sales orders and billing documents.,Create Sales Order,Create Customer Billing
+90,RISK_090,Sales Order vs Credit Memo,Critical,Order-to-Cash,A user can create sales orders and credit memos.,Create Sales Order,Create Credit Memo
+91,RISK_091,Employee Master vs Payroll Processing,Critical,Hire-to-Retire,A user can change employee master data and execute payroll.,Maintain Employee Master,Execute Payroll
+92,RISK_092,Employee Master vs Compensation,High,Hire-to-Retire,A user can change employee records and compensation information.,Maintain Employee Master,Maintain Compensation
+93,RISK_093,User Administration vs Role Assignment,Medium,IT Access Administration,A user can administer accounts and assign privileged roles.,Maintain User Accounts,Assign Security Roles
+94,RISK_094,Role Administration vs User Provisioning,Low,IT Access Administration,A user can modify roles and provision access.,Maintain Security Roles,Provision User Access
+95,RISK_095,Security Configuration vs User Administration,Low,IT Access Administration,A user can alter security configuration and administer users.,Maintain Security Configuration,Maintain User Accounts
+96,RISK_096,Material Master vs Inventory Adjustment,High,Master Data Management,A user can change material data and independently adjust inventory.,Maintain Material Master,Adjust Inventory
+97,RISK_097,Goods Movement vs Inventory Adjustment,Low,Inventory Management,A user can execute goods movements and inventory adjustments.,Post Goods Movement,Adjust Inventory
+98,RISK_098,Bank Master vs Bank Reconciliation,Low,Financial Close,A user can change bank master data and reconcile bank activity.,Maintain Bank Master,Perform Bank Reconciliation
+99,RISK_099,Asset Master vs Asset Posting,Medium,Financial Close,A user can change asset master data and post asset transactions.,Maintain Asset Master,Post Asset Transaction
+100,RISK_100,Customer Master vs Sales Order,Critical,Sales & Distribution,A user can maintain customer data and create sales orders.,Maintain Customer Master,Create Sales Order
+101,RISK_101,Vendor Master Maintenance vs Vendor Payment,Critical,Procure-to-Pay,A user can create or modify vendor master data and execute payments.,Create/Change Vendor,Execute Vendor Payment
+102,RISK_102,Purchase Order Creation vs Goods Receipt,Medium,Procure-to-Pay,A user can create purchasing commitments and independently confirm receipt.,Create Purchase Order,Post Goods Receipt
+103,RISK_103,Purchase Order vs Invoice Processing,Low,Procure-to-Pay,A user can create purchasing documents and process the related invoice.,Create Purchase Order,Process Vendor Invoice
+104,RISK_104,Vendor Master vs Invoice Processing,High,Procure-to-Pay,A user can maintain vendor data and process invoices against that vendor.,Maintain Vendor Master,Process Vendor Invoice
+105,RISK_105,Journal Entry vs Financial Posting Approval,Medium,Record-to-Report,A user can prepare and approve financial postings without independent review.,Create Journal Entry,Approve Financial Posting
+106,RISK_106,Journal Entry vs Period Close,Low,Record-to-Report,A user can post entries and perform period-close activities.,Post Journal Entry,Execute Period Close
+107,RISK_107,GL Master Data vs Journal Posting,Low,Record-to-Report,A user can modify account master data and post transactions.,Maintain GL Master Data,Post Journal Entry
+108,RISK_108,Customer Master vs Cash Application,High,Order-to-Cash,A user can maintain customer data and apply incoming cash.,Maintain Customer Master,Apply Customer Receipts
+109,RISK_109,Sales Order vs Billing,Low,Order-to-Cash,A user can create sales orders and billing documents.,Create Sales Order,Create Customer Billing
+110,RISK_110,Sales Order vs Credit Memo,Critical,Order-to-Cash,A user can create sales orders and credit memos.,Create Sales Order,Create Credit Memo
+111,RISK_111,Employee Master vs Payroll Processing,Critical,Hire-to-Retire,A user can change employee master data and execute payroll.,Maintain Employee Master,Execute Payroll
+112,RISK_112,Employee Master vs Compensation,High,Hire-to-Retire,A user can change employee records and compensation information.,Maintain Employee Master,Maintain Compensation
+113,RISK_113,User Administration vs Role Assignment,Low,IT Access Administration,A user can administer accounts and assign privileged roles.,Maintain User Accounts,Assign Security Roles
+114,RISK_114,Role Administration vs User Provisioning,Medium,IT Access Administration,A user can modify roles and provision access.,Maintain Security Roles,Provision User Access
+115,RISK_115,Security Configuration vs User Administration,Low,IT Access Administration,A user can alter security configuration and administer users.,Maintain Security Configuration,Maintain User Accounts
+116,RISK_116,Material Master vs Inventory Adjustment,High,Master Data Management,A user can change material data and independently adjust inventory.,Maintain Material Master,Adjust Inventory
+117,RISK_117,Goods Movement vs Inventory Adjustment,Medium,Inventory Management,A user can execute goods movements and inventory adjustments.,Post Goods Movement,Adjust Inventory
+118,RISK_118,Bank Master vs Bank Reconciliation,Low,Financial Close,A user can change bank master data and reconcile bank activity.,Maintain Bank Master,Perform Bank Reconciliation
+119,RISK_119,Asset Master vs Asset Posting,Low,Financial Close,A user can change asset master data and post asset transactions.,Maintain Asset Master,Post Asset Transaction
+120,RISK_120,Customer Master vs Sales Order,Critical,Sales & Distribution,A user can maintain customer data and create sales orders.,Maintain Customer Master,Create Sales Order

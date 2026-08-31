@@ -1,0 +1,1801 @@
+UserKey,UserID,UserName,BusinessUnit,Department,Region,UserType,ActiveStatus
+1,U00001,Aarav Sharma,IT,Infrastructure,LATAM,Employee,Active
+2,U00002,Anika Sharma,GBS,Master Data,NORAM,Employee,Active
+3,U00003,Rohan Sharma,Sales,Customer Service,LATAM,Employee,Active
+4,U00004,Priya Sharma,Sales,Sales Operations,APAC,Employee,Inactive
+5,U00005,Arjun Sharma,GBS,Master Data,NORAM,Employee,Active
+6,U00006,Neha Sharma,GBS,Reporting Services,NORAM,Employee,Active
+7,U00007,Vikram Sharma,Finance,Financial Reporting,NORAM,Employee,Active
+8,U00008,Ishita Sharma,Procurement,Sourcing,APAC,Employee,Active
+9,U00009,Karan Sharma,Finance,Financial Reporting,APAC,Employee,Active
+10,U00010,Meera Sharma,GBS,Master Data,NORAM,Employee,Active
+11,U00011,Rahul Sharma,GBS,Business Operations,APAC,Employee,Active
+12,U00012,Sneha Sharma,Finance,Accounts Receivable,APAC,Employee,Active
+13,U00013,Aditya Sharma,IT,Application Support,EMEA,Employee,Active
+14,U00014,Nisha Sharma,Finance,Treasury,NORAM,Employee,Active
+15,U00015,Sanjay Sharma,IT,Infrastructure,EMEA,Employee,Active
+16,U00016,Kavya Sharma,Finance,Financial Reporting,EMEA,Employee,Active
+17,U00017,Amit Sharma,GBS,Shared Services,APAC,Employee,Active
+18,U00018,Pooja Sharma,IT,Security Administration,EMEA,Employee,Active
+19,U00019,Varun Sharma,Sales,Sales Operations,APAC,Employee,Active
+20,U00020,Riya Sharma,IT,IT Operations,EMEA,Employee,Active
+21,U00021,Aarav Patel,Finance,Accounts Receivable,EMEA,Employee,Active
+22,U00022,Anika Patel,HR,Talent Management,APAC,Employee,Active
+23,U00023,Rohan Patel,GBS,Master Data,NORAM,Employee,Active
+24,U00024,Priya Patel,IT,IT Operations,NORAM,Employee,Active
+25,U00025,Arjun Patel,Finance,Accounts Receivable,EMEA,Employee,Active
+26,U00026,Neha Patel,HR,HR Systems,APAC,Employee,Active
+27,U00027,Vikram Patel,IT,Infrastructure,EMEA,Employee,Active
+28,U00028,Ishita Patel,Finance,Accounts Receivable,EMEA,Employee,Active
+29,U00029,Karan Patel,Procurement,Vendor Management,APAC,Employee,Active
+30,U00030,Meera Patel,GBS,Shared Services,EMEA,Employee,Active
+31,U00031,Rahul Patel,Finance,Accounts Payable,EMEA,Employee,Active
+32,U00032,Sneha Patel,Sales,Commercial,EMEA,Contractor,Active
+33,U00033,Aditya Patel,Sales,Commercial,APAC,Employee,Active
+34,U00034,Nisha Patel,Finance,Accounts Receivable,NORAM,Contractor,Active
+35,U00035,Sanjay Patel,HR,Payroll,NORAM,Employee,Active
+36,U00036,Kavya Patel,IT,Security Administration,NORAM,Employee,Active
+37,U00037,Amit Patel,Procurement,Sourcing,EMEA,Employee,Active
+38,U00038,Pooja Patel,GBS,Shared Services,APAC,Contractor,Active
+39,U00039,Varun Patel,Sales,Commercial,LATAM,Employee,Inactive
+40,U00040,Riya Patel,Sales,Sales Operations,LATAM,Contractor,Active
+41,U00041,Aarav Singh,GBS,Shared Services,EMEA,Employee,Active
+42,U00042,Anika Singh,IT,IT Operations,APAC,Employee,Active
+43,U00043,Rohan Singh,Procurement,Sourcing,APAC,Employee,Active
+44,U00044,Priya Singh,Finance,Treasury,APAC,Employee,Active
+45,U00045,Arjun Singh,Finance,Accounts Receivable,NORAM,Service Account,Active
+46,U00046,Neha Singh,Finance,Accounts Receivable,APAC,Employee,Active
+47,U00047,Vikram Singh,IT,IT Operations,EMEA,Employee,Active
+48,U00048,Ishita Singh,Finance,Accounts Payable,NORAM,Employee,Active
+49,U00049,Karan Singh,Finance,Accounts Receivable,LATAM,Employee,Active
+50,U00050,Meera Singh,Sales,Order Management,NORAM,Contractor,Active
+51,U00051,Rahul Singh,GBS,Master Data,EMEA,Employee,Active
+52,U00052,Sneha Singh,Finance,Accounts Payable,EMEA,Service Account,Active
+53,U00053,Aditya Singh,GBS,Reporting Services,EMEA,Employee,Inactive
+54,U00054,Nisha Singh,Finance,Treasury,NORAM,Employee,Active
+55,U00055,Sanjay Singh,Sales,Commercial,LATAM,Employee,Active
+56,U00056,Kavya Singh,Procurement,Vendor Management,EMEA,Employee,Active
+57,U00057,Amit Singh,Sales,Customer Service,APAC,Employee,Active
+58,U00058,Pooja Singh,Finance,Accounts Payable,APAC,Employee,Active
+59,U00059,Varun Singh,GBS,Master Data,APAC,Contractor,Active
+60,U00060,Riya Singh,Procurement,Purchasing,APAC,Employee,Inactive
+61,U00061,Aarav Das,Finance,Accounts Payable,APAC,Employee,Active
+62,U00062,Anika Das,Sales,Order Management,APAC,Employee,Active
+63,U00063,Rohan Das,GBS,Reporting Services,APAC,Employee,Active
+64,U00064,Priya Das,HR,HR Operations,EMEA,Employee,Active
+65,U00065,Arjun Das,Sales,Commercial,NORAM,Employee,Active
+66,U00066,Neha Das,Finance,Accounts Payable,NORAM,Contractor,Active
+67,U00067,Vikram Das,GBS,Reporting Services,EMEA,Employee,Active
+68,U00068,Ishita Das,Sales,Commercial,EMEA,Employee,Active
+69,U00069,Karan Das,Sales,Customer Service,APAC,Employee,Active
+70,U00070,Meera Das,Sales,Customer Service,APAC,Employee,Active
+71,U00071,Rahul Das,Procurement,Purchasing,NORAM,Employee,Active
+72,U00072,Sneha Das,GBS,Master Data,EMEA,Employee,Active
+73,U00073,Aditya Das,GBS,Master Data,NORAM,Employee,Active
+74,U00074,Nisha Das,Procurement,Vendor Management,NORAM,Employee,Active
+75,U00075,Sanjay Das,GBS,Business Operations,EMEA,Employee,Active
+76,U00076,Kavya Das,Finance,Accounts Payable,LATAM,Employee,Active
+77,U00077,Amit Das,GBS,Master Data,NORAM,Employee,Active
+78,U00078,Pooja Das,Procurement,Vendor Management,EMEA,Employee,Active
+79,U00079,Varun Das,Finance,Accounts Payable,EMEA,Employee,Active
+80,U00080,Riya Das,IT,Infrastructure,NORAM,Employee,Active
+81,U00081,Aarav Roy,GBS,Business Operations,APAC,Employee,Active
+82,U00082,Anika Roy,Sales,Order Management,NORAM,Employee,Active
+83,U00083,Rohan Roy,GBS,Business Operations,APAC,Employee,Active
+84,U00084,Priya Roy,Finance,Treasury,APAC,Contractor,Active
+85,U00085,Arjun Roy,Sales,Order Management,EMEA,Contractor,Active
+86,U00086,Neha Roy,Sales,Customer Service,APAC,Service Account,Active
+87,U00087,Vikram Roy,GBS,Master Data,LATAM,Employee,Active
+88,U00088,Ishita Roy,HR,HR Operations,NORAM,Employee,Active
+89,U00089,Karan Roy,GBS,Master Data,EMEA,Employee,Active
+90,U00090,Meera Roy,GBS,Master Data,NORAM,Employee,Active
+91,U00091,Rahul Roy,GBS,Reporting Services,NORAM,Employee,Active
+92,U00092,Sneha Roy,IT,Application Support,NORAM,Employee,Active
+93,U00093,Aditya Roy,Finance,Accounts Payable,APAC,Employee,Active
+94,U00094,Nisha Roy,GBS,Shared Services,NORAM,Employee,Inactive
+95,U00095,Sanjay Roy,Finance,Treasury,NORAM,Employee,Active
+96,U00096,Kavya Roy,Finance,Financial Reporting,NORAM,Contractor,Active
+97,U00097,Amit Roy,IT,IT Operations,APAC,Employee,Active
+98,U00098,Pooja Roy,Sales,Commercial,NORAM,Employee,Active
+99,U00099,Varun Roy,Finance,Treasury,APAC,Employee,Active
+100,U00100,Riya Roy,GBS,Reporting Services,EMEA,Employee,Active
+101,U00101,Aarav Gupta,Finance,Accounts Payable,NORAM,Employee,Active
+102,U00102,Anika Gupta,Finance,Treasury,LATAM,Employee,Active
+103,U00103,Rohan Gupta,HR,HR Systems,APAC,Contractor,Active
+104,U00104,Priya Gupta,HR,Talent Management,NORAM,Employee,Active
+105,U00105,Arjun Gupta,Finance,Accounts Receivable,EMEA,Employee,Active
+106,U00106,Neha Gupta,Finance,Financial Reporting,APAC,Employee,Active
+107,U00107,Vikram Gupta,HR,Payroll,EMEA,Employee,Active
+108,U00108,Ishita Gupta,HR,Talent Management,APAC,Employee,Active
+109,U00109,Karan Gupta,Sales,Order Management,EMEA,Employee,Active
+110,U00110,Meera Gupta,HR,HR Operations,NORAM,Employee,Active
+111,U00111,Rahul Gupta,Sales,Order Management,EMEA,Employee,Active
+112,U00112,Sneha Gupta,IT,Application Support,LATAM,Contractor,Active
+113,U00113,Aditya Gupta,Sales,Sales Operations,APAC,Employee,Active
+114,U00114,Nisha Gupta,Finance,Treasury,APAC,Employee,Inactive
+115,U00115,Sanjay Gupta,Procurement,Vendor Management,APAC,Employee,Active
+116,U00116,Kavya Gupta,Finance,Accounts Receivable,NORAM,Employee,Active
+117,U00117,Amit Gupta,Finance,Accounts Payable,APAC,Employee,Active
+118,U00118,Pooja Gupta,GBS,Reporting Services,NORAM,Employee,Active
+119,U00119,Varun Gupta,IT,IT Operations,EMEA,Employee,Active
+120,U00120,Riya Gupta,Sales,Sales Operations,APAC,Employee,Active
+121,U00121,Aarav Mehta,GBS,Business Operations,NORAM,Service Account,Active
+122,U00122,Anika Mehta,Sales,Customer Service,EMEA,Employee,Active
+123,U00123,Rohan Mehta,Sales,Sales Operations,APAC,Employee,Active
+124,U00124,Priya Mehta,Finance,Accounts Receivable,APAC,Employee,Active
+125,U00125,Arjun Mehta,HR,Talent Management,APAC,Employee,Active
+126,U00126,Neha Mehta,HR,Payroll,EMEA,Employee,Active
+127,U00127,Vikram Mehta,Finance,Financial Reporting,EMEA,Employee,Active
+128,U00128,Ishita Mehta,Sales,Sales Operations,NORAM,Employee,Active
+129,U00129,Karan Mehta,GBS,Master Data,LATAM,Employee,Active
+130,U00130,Meera Mehta,Sales,Customer Service,APAC,Employee,Active
+131,U00131,Rahul Mehta,HR,Payroll,APAC,Employee,Inactive
+132,U00132,Sneha Mehta,GBS,Shared Services,EMEA,Employee,Active
+133,U00133,Aditya Mehta,Finance,Accounts Receivable,NORAM,Employee,Active
+134,U00134,Nisha Mehta,HR,Payroll,EMEA,Employee,Active
+135,U00135,Sanjay Mehta,IT,Application Support,NORAM,Contractor,Active
+136,U00136,Kavya Mehta,IT,IT Operations,EMEA,Employee,Active
+137,U00137,Amit Mehta,GBS,Shared Services,APAC,Employee,Active
+138,U00138,Pooja Mehta,Procurement,Procurement Operations,APAC,Employee,Active
+139,U00139,Varun Mehta,Sales,Commercial,EMEA,Service Account,Active
+140,U00140,Riya Mehta,IT,IT Operations,APAC,Employee,Active
+141,U00141,Aarav Nair,GBS,Master Data,APAC,Employee,Inactive
+142,U00142,Anika Nair,Finance,Treasury,NORAM,Employee,Active
+143,U00143,Rohan Nair,GBS,Reporting Services,NORAM,Employee,Active
+144,U00144,Priya Nair,HR,Talent Management,LATAM,Employee,Active
+145,U00145,Arjun Nair,IT,Infrastructure,EMEA,Contractor,Active
+146,U00146,Neha Nair,Procurement,Sourcing,LATAM,Employee,Active
+147,U00147,Vikram Nair,Procurement,Vendor Management,EMEA,Employee,Active
+148,U00148,Ishita Nair,Finance,Financial Reporting,APAC,Employee,Active
+149,U00149,Karan Nair,GBS,Reporting Services,APAC,Employee,Active
+150,U00150,Meera Nair,HR,HR Systems,LATAM,Employee,Active
+151,U00151,Rahul Nair,Sales,Sales Operations,EMEA,Employee,Active
+152,U00152,Sneha Nair,Finance,Treasury,APAC,Employee,Active
+153,U00153,Aditya Nair,HR,HR Systems,EMEA,Contractor,Active
+154,U00154,Nisha Nair,Sales,Sales Operations,APAC,Contractor,Active
+155,U00155,Sanjay Nair,Procurement,Procurement Operations,EMEA,Employee,Active
+156,U00156,Kavya Nair,IT,IT Operations,APAC,Employee,Active
+157,U00157,Amit Nair,Finance,Accounts Receivable,APAC,Employee,Active
+158,U00158,Pooja Nair,IT,IT Operations,EMEA,Employee,Active
+159,U00159,Varun Nair,IT,Application Support,LATAM,Employee,Active
+160,U00160,Riya Nair,HR,HR Systems,APAC,Employee,Active
+161,U00161,Aarav Iyer,Sales,Commercial,APAC,Contractor,Active
+162,U00162,Anika Iyer,Finance,Accounts Receivable,APAC,Employee,Active
+163,U00163,Rohan Iyer,Sales,Commercial,APAC,Employee,Active
+164,U00164,Priya Iyer,Finance,Accounts Receivable,NORAM,Employee,Active
+165,U00165,Arjun Iyer,Sales,Order Management,APAC,Employee,Active
+166,U00166,Neha Iyer,Finance,Accounts Receivable,EMEA,Employee,Active
+167,U00167,Vikram Iyer,Sales,Customer Service,NORAM,Employee,Active
+168,U00168,Ishita Iyer,Procurement,Procurement Operations,EMEA,Employee,Active
+169,U00169,Karan Iyer,Procurement,Sourcing,APAC,Employee,Active
+170,U00170,Meera Iyer,Finance,Treasury,APAC,Employee,Active
+171,U00171,Rahul Iyer,Finance,Treasury,APAC,Employee,Active
+172,U00172,Sneha Iyer,Procurement,Sourcing,EMEA,Employee,Active
+173,U00173,Aditya Iyer,Finance,Accounts Receivable,EMEA,Employee,Active
+174,U00174,Nisha Iyer,GBS,Business Operations,APAC,Contractor,Active
+175,U00175,Sanjay Iyer,HR,HR Systems,APAC,Employee,Active
+176,U00176,Kavya Iyer,IT,IT Operations,EMEA,Employee,Active
+177,U00177,Amit Iyer,Procurement,Procurement Operations,APAC,Employee,Inactive
+178,U00178,Pooja Iyer,Finance,Accounts Payable,NORAM,Employee,Active
+179,U00179,Varun Iyer,Procurement,Sourcing,EMEA,Employee,Active
+180,U00180,Riya Iyer,IT,IT Operations,APAC,Employee,Active
+181,U00181,Aarav Kapoor,Finance,Treasury,LATAM,Employee,Active
+182,U00182,Anika Kapoor,GBS,Shared Services,LATAM,Employee,Active
+183,U00183,Rohan Kapoor,Procurement,Vendor Management,EMEA,Employee,Active
+184,U00184,Priya Kapoor,GBS,Shared Services,APAC,Employee,Active
+185,U00185,Arjun Kapoor,GBS,Business Operations,EMEA,Employee,Active
+186,U00186,Neha Kapoor,IT,Application Support,NORAM,Employee,Active
+187,U00187,Vikram Kapoor,GBS,Shared Services,EMEA,Employee,Active
+188,U00188,Ishita Kapoor,Sales,Sales Operations,EMEA,Employee,Active
+189,U00189,Karan Kapoor,Sales,Order Management,APAC,Service Account,Active
+190,U00190,Meera Kapoor,Finance,Financial Reporting,LATAM,Contractor,Active
+191,U00191,Rahul Kapoor,Sales,Commercial,LATAM,Employee,Active
+192,U00192,Sneha Kapoor,IT,Infrastructure,NORAM,Employee,Active
+193,U00193,Aditya Kapoor,Finance,Treasury,LATAM,Employee,Active
+194,U00194,Nisha Kapoor,Procurement,Procurement Operations,NORAM,Employee,Active
+195,U00195,Sanjay Kapoor,Procurement,Procurement Operations,LATAM,Employee,Active
+196,U00196,Kavya Kapoor,HR,Talent Management,EMEA,Employee,Active
+197,U00197,Amit Kapoor,GBS,Reporting Services,APAC,Employee,Active
+198,U00198,Pooja Kapoor,Finance,Accounts Receivable,APAC,Employee,Active
+199,U00199,Varun Kapoor,GBS,Reporting Services,APAC,Employee,Active
+200,U00200,Riya Kapoor,Procurement,Sourcing,APAC,Employee,Active
+201,U00201,Aarav Mishra,Sales,Sales Operations,APAC,Employee,Active
+202,U00202,Anika Mishra,IT,Application Support,EMEA,Employee,Active
+203,U00203,Rohan Mishra,Procurement,Purchasing,LATAM,Contractor,Active
+204,U00204,Priya Mishra,GBS,Business Operations,LATAM,Employee,Active
+205,U00205,Arjun Mishra,Procurement,Sourcing,APAC,Employee,Active
+206,U00206,Neha Mishra,Sales,Customer Service,APAC,Employee,Active
+207,U00207,Vikram Mishra,GBS,Master Data,NORAM,Employee,Active
+208,U00208,Ishita Mishra,Sales,Customer Service,NORAM,Employee,Active
+209,U00209,Karan Mishra,GBS,Master Data,LATAM,Employee,Active
+210,U00210,Meera Mishra,GBS,Shared Services,APAC,Employee,Active
+211,U00211,Rahul Mishra,Procurement,Procurement Operations,LATAM,Contractor,Active
+212,U00212,Sneha Mishra,Sales,Customer Service,APAC,Employee,Active
+213,U00213,Aditya Mishra,GBS,Shared Services,NORAM,Employee,Active
+214,U00214,Nisha Mishra,Sales,Commercial,EMEA,Employee,Active
+215,U00215,Sanjay Mishra,Finance,Accounts Payable,EMEA,Contractor,Active
+216,U00216,Kavya Mishra,HR,HR Systems,APAC,Employee,Inactive
+217,U00217,Amit Mishra,Finance,Accounts Payable,APAC,Employee,Active
+218,U00218,Pooja Mishra,Sales,Commercial,EMEA,Employee,Active
+219,U00219,Varun Mishra,GBS,Business Operations,EMEA,Employee,Active
+220,U00220,Riya Mishra,Procurement,Vendor Management,APAC,Employee,Active
+221,U00221,Aarav Verma,HR,HR Operations,NORAM,Employee,Active
+222,U00222,Anika Verma,Sales,Commercial,EMEA,Employee,Active
+223,U00223,Rohan Verma,Procurement,Procurement Operations,EMEA,Employee,Active
+224,U00224,Priya Verma,HR,HR Operations,EMEA,Contractor,Active
+225,U00225,Arjun Verma,IT,Infrastructure,NORAM,Employee,Active
+226,U00226,Neha Verma,GBS,Master Data,APAC,Employee,Active
+227,U00227,Vikram Verma,GBS,Reporting Services,EMEA,Contractor,Active
+228,U00228,Ishita Verma,GBS,Shared Services,EMEA,Employee,Active
+229,U00229,Karan Verma,GBS,Reporting Services,NORAM,Employee,Active
+230,U00230,Meera Verma,IT,Application Support,EMEA,Contractor,Active
+231,U00231,Rahul Verma,HR,Payroll,EMEA,Employee,Active
+232,U00232,Sneha Verma,Finance,Accounts Receivable,NORAM,Employee,Active
+233,U00233,Aditya Verma,Finance,Treasury,APAC,Employee,Active
+234,U00234,Nisha Verma,Procurement,Purchasing,NORAM,Employee,Active
+235,U00235,Sanjay Verma,Finance,Accounts Receivable,NORAM,Contractor,Active
+236,U00236,Kavya Verma,Sales,Sales Operations,NORAM,Contractor,Active
+237,U00237,Amit Verma,Procurement,Purchasing,APAC,Service Account,Active
+238,U00238,Pooja Verma,IT,Infrastructure,APAC,Employee,Active
+239,U00239,Varun Verma,HR,Payroll,LATAM,Employee,Active
+240,U00240,Riya Verma,Sales,Sales Operations,EMEA,Employee,Active
+241,U00241,Aarav Joshi,Procurement,Purchasing,LATAM,Employee,Active
+242,U00242,Anika Joshi,IT,IT Operations,NORAM,Employee,Active
+243,U00243,Rohan Joshi,Sales,Customer Service,EMEA,Employee,Active
+244,U00244,Priya Joshi,HR,HR Operations,EMEA,Employee,Active
+245,U00245,Arjun Joshi,GBS,Reporting Services,APAC,Employee,Active
+246,U00246,Neha Joshi,GBS,Shared Services,APAC,Employee,Active
+247,U00247,Vikram Joshi,Sales,Sales Operations,APAC,Employee,Active
+248,U00248,Ishita Joshi,HR,HR Systems,LATAM,Service Account,Inactive
+249,U00249,Karan Joshi,Finance,Financial Reporting,APAC,Contractor,Active
+250,U00250,Meera Joshi,Finance,Treasury,NORAM,Employee,Active
+251,U00251,Rahul Joshi,HR,HR Operations,NORAM,Employee,Active
+252,U00252,Sneha Joshi,GBS,Reporting Services,EMEA,Employee,Active
+253,U00253,Aditya Joshi,GBS,Master Data,EMEA,Employee,Inactive
+254,U00254,Nisha Joshi,IT,Application Support,APAC,Employee,Active
+255,U00255,Sanjay Joshi,GBS,Business Operations,APAC,Employee,Active
+256,U00256,Kavya Joshi,Sales,Sales Operations,LATAM,Employee,Active
+257,U00257,Amit Joshi,Finance,Accounts Receivable,EMEA,Employee,Inactive
+258,U00258,Pooja Joshi,Finance,Accounts Payable,EMEA,Employee,Inactive
+259,U00259,Varun Joshi,IT,Infrastructure,APAC,Employee,Active
+260,U00260,Riya Joshi,GBS,Business Operations,EMEA,Employee,Active
+261,U00261,Aarav Bose,Sales,Customer Service,APAC,Employee,Active
+262,U00262,Anika Bose,IT,Infrastructure,EMEA,Employee,Active
+263,U00263,Rohan Bose,Procurement,Vendor Management,APAC,Employee,Active
+264,U00264,Priya Bose,Finance,Treasury,NORAM,Employee,Active
+265,U00265,Arjun Bose,Finance,Treasury,EMEA,Employee,Active
+266,U00266,Neha Bose,GBS,Reporting Services,LATAM,Employee,Active
+267,U00267,Vikram Bose,IT,IT Operations,NORAM,Employee,Active
+268,U00268,Ishita Bose,GBS,Master Data,NORAM,Employee,Inactive
+269,U00269,Karan Bose,HR,Payroll,APAC,Employee,Active
+270,U00270,Meera Bose,GBS,Master Data,EMEA,Employee,Active
+271,U00271,Rahul Bose,Sales,Order Management,EMEA,Employee,Inactive
+272,U00272,Sneha Bose,Finance,Accounts Receivable,APAC,Contractor,Active
+273,U00273,Aditya Bose,Finance,Treasury,EMEA,Employee,Active
+274,U00274,Nisha Bose,Finance,Treasury,APAC,Employee,Active
+275,U00275,Sanjay Bose,IT,Security Administration,APAC,Employee,Active
+276,U00276,Kavya Bose,Finance,Accounts Payable,APAC,Contractor,Active
+277,U00277,Amit Bose,Procurement,Sourcing,APAC,Employee,Active
+278,U00278,Pooja Bose,Procurement,Sourcing,LATAM,Contractor,Active
+279,U00279,Varun Bose,Finance,Accounts Payable,EMEA,Employee,Active
+280,U00280,Riya Bose,IT,Security Administration,NORAM,Employee,Active
+281,U00281,Aarav Reddy,Finance,Accounts Payable,APAC,Contractor,Active
+282,U00282,Anika Reddy,GBS,Master Data,APAC,Service Account,Active
+283,U00283,Rohan Reddy,Sales,Sales Operations,EMEA,Employee,Active
+284,U00284,Priya Reddy,Finance,Treasury,APAC,Employee,Active
+285,U00285,Arjun Reddy,GBS,Shared Services,APAC,Employee,Active
+286,U00286,Neha Reddy,HR,Talent Management,LATAM,Contractor,Active
+287,U00287,Vikram Reddy,Procurement,Purchasing,EMEA,Employee,Active
+288,U00288,Ishita Reddy,HR,Payroll,APAC,Employee,Active
+289,U00289,Karan Reddy,Finance,Accounts Receivable,NORAM,Employee,Active
+290,U00290,Meera Reddy,HR,HR Operations,NORAM,Employee,Active
+291,U00291,Rahul Reddy,GBS,Shared Services,NORAM,Employee,Active
+292,U00292,Sneha Reddy,Sales,Customer Service,LATAM,Employee,Inactive
+293,U00293,Aditya Reddy,Finance,Treasury,EMEA,Employee,Active
+294,U00294,Nisha Reddy,GBS,Reporting Services,EMEA,Employee,Inactive
+295,U00295,Sanjay Reddy,IT,IT Operations,LATAM,Employee,Active
+296,U00296,Kavya Reddy,Procurement,Purchasing,APAC,Employee,Active
+297,U00297,Amit Reddy,Sales,Order Management,LATAM,Employee,Active
+298,U00298,Pooja Reddy,HR,HR Systems,LATAM,Employee,Active
+299,U00299,Varun Reddy,GBS,Reporting Services,EMEA,Service Account,Active
+300,U00300,Riya Reddy,Sales,Sales Operations,APAC,Employee,Active
+301,U00301,Aarav Khan,IT,Security Administration,APAC,Employee,Active
+302,U00302,Anika Khan,Finance,Treasury,EMEA,Employee,Active
+303,U00303,Rohan Khan,Finance,Financial Reporting,APAC,Employee,Inactive
+304,U00304,Priya Khan,Sales,Customer Service,EMEA,Employee,Active
+305,U00305,Arjun Khan,Finance,Accounts Receivable,APAC,Contractor,Active
+306,U00306,Neha Khan,GBS,Master Data,LATAM,Employee,Active
+307,U00307,Vikram Khan,GBS,Business Operations,EMEA,Employee,Inactive
+308,U00308,Ishita Khan,Sales,Customer Service,LATAM,Contractor,Inactive
+309,U00309,Karan Khan,IT,Infrastructure,LATAM,Employee,Active
+310,U00310,Meera Khan,GBS,Master Data,APAC,Employee,Active
+311,U00311,Rahul Khan,Finance,Financial Reporting,LATAM,Employee,Active
+312,U00312,Sneha Khan,Sales,Customer Service,APAC,Service Account,Active
+313,U00313,Aditya Khan,Finance,Financial Reporting,LATAM,Employee,Active
+314,U00314,Nisha Khan,IT,Application Support,NORAM,Service Account,Active
+315,U00315,Sanjay Khan,GBS,Reporting Services,NORAM,Employee,Active
+316,U00316,Kavya Khan,GBS,Shared Services,LATAM,Employee,Active
+317,U00317,Amit Khan,Sales,Commercial,APAC,Employee,Active
+318,U00318,Pooja Khan,Finance,Accounts Receivable,NORAM,Employee,Active
+319,U00319,Varun Khan,HR,HR Operations,APAC,Employee,Active
+320,U00320,Riya Khan,Procurement,Sourcing,EMEA,Contractor,Active
+321,U00321,Aarav Chatterjee,Procurement,Vendor Management,APAC,Employee,Active
+322,U00322,Anika Chatterjee,HR,HR Operations,LATAM,Employee,Active
+323,U00323,Rohan Chatterjee,Procurement,Vendor Management,EMEA,Contractor,Active
+324,U00324,Priya Chatterjee,Procurement,Procurement Operations,APAC,Employee,Active
+325,U00325,Arjun Chatterjee,GBS,Business Operations,NORAM,Employee,Active
+326,U00326,Neha Chatterjee,Procurement,Purchasing,NORAM,Employee,Active
+327,U00327,Vikram Chatterjee,Procurement,Procurement Operations,APAC,Contractor,Active
+328,U00328,Ishita Chatterjee,Finance,Financial Reporting,EMEA,Employee,Active
+329,U00329,Karan Chatterjee,Sales,Sales Operations,EMEA,Employee,Active
+330,U00330,Meera Chatterjee,Finance,Treasury,EMEA,Employee,Active
+331,U00331,Rahul Chatterjee,Finance,Financial Reporting,EMEA,Contractor,Active
+332,U00332,Sneha Chatterjee,Finance,Treasury,NORAM,Employee,Active
+333,U00333,Aditya Chatterjee,Sales,Sales Operations,LATAM,Employee,Active
+334,U00334,Nisha Chatterjee,IT,Infrastructure,NORAM,Service Account,Active
+335,U00335,Sanjay Chatterjee,Sales,Customer Service,EMEA,Employee,Active
+336,U00336,Kavya Chatterjee,Procurement,Procurement Operations,NORAM,Employee,Active
+337,U00337,Amit Chatterjee,HR,HR Operations,LATAM,Employee,Active
+338,U00338,Pooja Chatterjee,GBS,Reporting Services,APAC,Employee,Active
+339,U00339,Varun Chatterjee,Sales,Order Management,NORAM,Employee,Active
+340,U00340,Riya Chatterjee,Procurement,Procurement Operations,EMEA,Employee,Active
+341,U00341,Aarav Sen,Procurement,Purchasing,EMEA,Employee,Inactive
+342,U00342,Anika Sen,Sales,Order Management,NORAM,Employee,Active
+343,U00343,Rohan Sen,Sales,Sales Operations,APAC,Employee,Active
+344,U00344,Priya Sen,Sales,Commercial,EMEA,Employee,Active
+345,U00345,Arjun Sen,Procurement,Sourcing,APAC,Employee,Active
+346,U00346,Neha Sen,Procurement,Purchasing,APAC,Employee,Active
+347,U00347,Vikram Sen,Sales,Customer Service,LATAM,Service Account,Active
+348,U00348,Ishita Sen,GBS,Reporting Services,LATAM,Employee,Active
+349,U00349,Karan Sen,Finance,Financial Reporting,EMEA,Employee,Active
+350,U00350,Meera Sen,HR,HR Operations,EMEA,Employee,Active
+351,U00351,Rahul Sen,Procurement,Sourcing,NORAM,Service Account,Active
+352,U00352,Sneha Sen,GBS,Business Operations,APAC,Employee,Active
+353,U00353,Aditya Sen,HR,Talent Management,APAC,Employee,Active
+354,U00354,Nisha Sen,Finance,Treasury,APAC,Employee,Active
+355,U00355,Sanjay Sen,Sales,Order Management,NORAM,Employee,Active
+356,U00356,Kavya Sen,GBS,Business Operations,APAC,Contractor,Active
+357,U00357,Amit Sen,IT,IT Operations,APAC,Employee,Active
+358,U00358,Pooja Sen,Procurement,Procurement Operations,EMEA,Employee,Active
+359,U00359,Varun Sen,IT,Infrastructure,APAC,Employee,Active
+360,U00360,Riya Sen,Finance,Treasury,EMEA,Service Account,Inactive
+361,U00361,Aarav Malhotra,Procurement,Procurement Operations,NORAM,Employee,Active
+362,U00362,Anika Malhotra,IT,Infrastructure,APAC,Employee,Active
+363,U00363,Rohan Malhotra,Sales,Sales Operations,LATAM,Employee,Active
+364,U00364,Priya Malhotra,GBS,Master Data,EMEA,Employee,Active
+365,U00365,Arjun Malhotra,Procurement,Procurement Operations,NORAM,Employee,Active
+366,U00366,Neha Malhotra,Procurement,Vendor Management,APAC,Employee,Active
+367,U00367,Vikram Malhotra,IT,Security Administration,NORAM,Employee,Active
+368,U00368,Ishita Malhotra,Procurement,Procurement Operations,APAC,Contractor,Active
+369,U00369,Karan Malhotra,Procurement,Purchasing,EMEA,Employee,Active
+370,U00370,Meera Malhotra,HR,HR Systems,NORAM,Employee,Active
+371,U00371,Rahul Malhotra,GBS,Shared Services,APAC,Employee,Active
+372,U00372,Sneha Malhotra,Procurement,Procurement Operations,EMEA,Employee,Active
+373,U00373,Aditya Malhotra,IT,Security Administration,NORAM,Employee,Active
+374,U00374,Nisha Malhotra,Sales,Commercial,NORAM,Employee,Active
+375,U00375,Sanjay Malhotra,Procurement,Purchasing,APAC,Employee,Active
+376,U00376,Kavya Malhotra,HR,HR Operations,EMEA,Employee,Active
+377,U00377,Amit Malhotra,Procurement,Procurement Operations,NORAM,Employee,Active
+378,U00378,Pooja Malhotra,IT,Infrastructure,LATAM,Employee,Active
+379,U00379,Varun Malhotra,GBS,Master Data,EMEA,Employee,Active
+380,U00380,Riya Malhotra,Finance,Accounts Receivable,EMEA,Contractor,Active
+381,U00381,Aarav Sinha,IT,Infrastructure,LATAM,Contractor,Active
+382,U00382,Anika Sinha,IT,Application Support,APAC,Employee,Active
+383,U00383,Rohan Sinha,GBS,Business Operations,APAC,Employee,Active
+384,U00384,Priya Sinha,Sales,Order Management,APAC,Employee,Active
+385,U00385,Arjun Sinha,Finance,Treasury,LATAM,Employee,Active
+386,U00386,Neha Sinha,Procurement,Purchasing,LATAM,Employee,Active
+387,U00387,Vikram Sinha,Procurement,Vendor Management,NORAM,Employee,Active
+388,U00388,Ishita Sinha,Finance,Financial Reporting,LATAM,Employee,Active
+389,U00389,Karan Sinha,IT,IT Operations,EMEA,Employee,Active
+390,U00390,Meera Sinha,Procurement,Vendor Management,LATAM,Employee,Active
+391,U00391,Rahul Sinha,HR,HR Operations,LATAM,Contractor,Active
+392,U00392,Sneha Sinha,Procurement,Sourcing,APAC,Employee,Active
+393,U00393,Aditya Sinha,Finance,Accounts Receivable,LATAM,Employee,Active
+394,U00394,Nisha Sinha,GBS,Shared Services,EMEA,Employee,Active
+395,U00395,Sanjay Sinha,GBS,Master Data,EMEA,Employee,Active
+396,U00396,Kavya Sinha,Procurement,Vendor Management,EMEA,Employee,Active
+397,U00397,Amit Sinha,Procurement,Purchasing,APAC,Employee,Active
+398,U00398,Pooja Sinha,IT,Security Administration,LATAM,Employee,Active
+399,U00399,Varun Sinha,Procurement,Procurement Operations,NORAM,Contractor,Active
+400,U00400,Riya Sinha,HR,HR Operations,APAC,Employee,Active
+401,U00401,Aarav Sharma,HR,HR Operations,APAC,Employee,Active
+402,U00402,Anika Sharma,IT,Infrastructure,APAC,Employee,Active
+403,U00403,Rohan Sharma,Finance,Treasury,EMEA,Employee,Active
+404,U00404,Priya Sharma,GBS,Shared Services,EMEA,Employee,Active
+405,U00405,Arjun Sharma,Sales,Order Management,LATAM,Employee,Active
+406,U00406,Neha Sharma,HR,Talent Management,NORAM,Employee,Active
+407,U00407,Vikram Sharma,Sales,Customer Service,EMEA,Employee,Active
+408,U00408,Ishita Sharma,Sales,Commercial,APAC,Employee,Active
+409,U00409,Karan Sharma,Finance,Financial Reporting,NORAM,Employee,Inactive
+410,U00410,Meera Sharma,HR,Payroll,APAC,Contractor,Active
+411,U00411,Rahul Sharma,HR,HR Operations,EMEA,Employee,Active
+412,U00412,Sneha Sharma,Procurement,Purchasing,LATAM,Employee,Active
+413,U00413,Aditya Sharma,GBS,Master Data,APAC,Employee,Active
+414,U00414,Nisha Sharma,Procurement,Procurement Operations,EMEA,Service Account,Active
+415,U00415,Sanjay Sharma,Sales,Sales Operations,LATAM,Contractor,Active
+416,U00416,Kavya Sharma,Sales,Customer Service,NORAM,Employee,Active
+417,U00417,Amit Sharma,GBS,Master Data,LATAM,Employee,Active
+418,U00418,Pooja Sharma,Procurement,Procurement Operations,EMEA,Employee,Active
+419,U00419,Varun Sharma,HR,Payroll,NORAM,Employee,Active
+420,U00420,Riya Sharma,Finance,Accounts Receivable,APAC,Employee,Active
+421,U00421,Aarav Patel,Procurement,Sourcing,EMEA,Employee,Active
+422,U00422,Anika Patel,Finance,Treasury,NORAM,Employee,Inactive
+423,U00423,Rohan Patel,Finance,Treasury,APAC,Employee,Active
+424,U00424,Priya Patel,HR,Talent Management,EMEA,Employee,Inactive
+425,U00425,Arjun Patel,GBS,Reporting Services,APAC,Employee,Active
+426,U00426,Neha Patel,Sales,Commercial,APAC,Employee,Active
+427,U00427,Vikram Patel,IT,Security Administration,LATAM,Employee,Active
+428,U00428,Ishita Patel,Sales,Customer Service,APAC,Employee,Inactive
+429,U00429,Karan Patel,Procurement,Purchasing,APAC,Employee,Active
+430,U00430,Meera Patel,HR,Talent Management,NORAM,Employee,Active
+431,U00431,Rahul Patel,Finance,Treasury,EMEA,Employee,Inactive
+432,U00432,Sneha Patel,Procurement,Purchasing,EMEA,Employee,Active
+433,U00433,Aditya Patel,GBS,Reporting Services,APAC,Contractor,Inactive
+434,U00434,Nisha Patel,GBS,Business Operations,LATAM,Employee,Active
+435,U00435,Sanjay Patel,GBS,Shared Services,LATAM,Employee,Inactive
+436,U00436,Kavya Patel,GBS,Business Operations,EMEA,Employee,Active
+437,U00437,Amit Patel,HR,Talent Management,NORAM,Employee,Active
+438,U00438,Pooja Patel,GBS,Shared Services,EMEA,Employee,Active
+439,U00439,Varun Patel,GBS,Shared Services,APAC,Employee,Active
+440,U00440,Riya Patel,Sales,Customer Service,LATAM,Employee,Active
+441,U00441,Aarav Singh,GBS,Reporting Services,LATAM,Employee,Active
+442,U00442,Anika Singh,GBS,Master Data,APAC,Employee,Active
+443,U00443,Rohan Singh,Finance,Accounts Receivable,NORAM,Employee,Inactive
+444,U00444,Priya Singh,Sales,Order Management,NORAM,Employee,Active
+445,U00445,Arjun Singh,GBS,Reporting Services,NORAM,Employee,Active
+446,U00446,Neha Singh,IT,Infrastructure,APAC,Contractor,Active
+447,U00447,Vikram Singh,Finance,Accounts Receivable,NORAM,Employee,Active
+448,U00448,Ishita Singh,Finance,Accounts Payable,EMEA,Employee,Active
+449,U00449,Karan Singh,Procurement,Purchasing,EMEA,Employee,Active
+450,U00450,Meera Singh,Finance,Accounts Payable,APAC,Employee,Active
+451,U00451,Rahul Singh,Sales,Commercial,APAC,Employee,Active
+452,U00452,Sneha Singh,Finance,Treasury,EMEA,Employee,Active
+453,U00453,Aditya Singh,Finance,Accounts Payable,LATAM,Employee,Active
+454,U00454,Nisha Singh,IT,IT Operations,APAC,Employee,Active
+455,U00455,Sanjay Singh,GBS,Business Operations,APAC,Employee,Active
+456,U00456,Kavya Singh,Finance,Treasury,APAC,Service Account,Inactive
+457,U00457,Amit Singh,Sales,Order Management,APAC,Employee,Active
+458,U00458,Pooja Singh,Sales,Commercial,APAC,Employee,Active
+459,U00459,Varun Singh,Procurement,Procurement Operations,APAC,Employee,Active
+460,U00460,Riya Singh,Sales,Customer Service,LATAM,Employee,Active
+461,U00461,Aarav Das,GBS,Shared Services,APAC,Employee,Active
+462,U00462,Anika Das,Sales,Sales Operations,LATAM,Employee,Active
+463,U00463,Rohan Das,Finance,Accounts Receivable,APAC,Employee,Active
+464,U00464,Priya Das,IT,Application Support,APAC,Employee,Active
+465,U00465,Arjun Das,IT,Application Support,APAC,Employee,Active
+466,U00466,Neha Das,Procurement,Purchasing,LATAM,Employee,Inactive
+467,U00467,Vikram Das,Sales,Customer Service,APAC,Employee,Active
+468,U00468,Ishita Das,GBS,Shared Services,LATAM,Employee,Active
+469,U00469,Karan Das,IT,Infrastructure,APAC,Employee,Active
+470,U00470,Meera Das,Sales,Commercial,APAC,Employee,Inactive
+471,U00471,Rahul Das,GBS,Reporting Services,APAC,Employee,Active
+472,U00472,Sneha Das,Procurement,Purchasing,APAC,Employee,Active
+473,U00473,Aditya Das,Procurement,Purchasing,APAC,Employee,Active
+474,U00474,Nisha Das,Finance,Accounts Receivable,APAC,Employee,Active
+475,U00475,Sanjay Das,GBS,Shared Services,EMEA,Employee,Active
+476,U00476,Kavya Das,IT,Infrastructure,NORAM,Contractor,Active
+477,U00477,Amit Das,IT,Infrastructure,APAC,Contractor,Active
+478,U00478,Pooja Das,GBS,Business Operations,NORAM,Employee,Active
+479,U00479,Varun Das,Finance,Financial Reporting,NORAM,Employee,Active
+480,U00480,Riya Das,Finance,Treasury,APAC,Employee,Inactive
+481,U00481,Aarav Roy,Sales,Sales Operations,EMEA,Employee,Active
+482,U00482,Anika Roy,Procurement,Purchasing,LATAM,Employee,Active
+483,U00483,Rohan Roy,Sales,Order Management,APAC,Employee,Active
+484,U00484,Priya Roy,Procurement,Purchasing,EMEA,Employee,Active
+485,U00485,Arjun Roy,Procurement,Vendor Management,NORAM,Service Account,Active
+486,U00486,Neha Roy,Finance,Treasury,EMEA,Employee,Active
+487,U00487,Vikram Roy,HR,Payroll,LATAM,Employee,Active
+488,U00488,Ishita Roy,IT,Application Support,APAC,Employee,Active
+489,U00489,Karan Roy,Finance,Financial Reporting,APAC,Employee,Active
+490,U00490,Meera Roy,GBS,Reporting Services,LATAM,Employee,Active
+491,U00491,Rahul Roy,HR,Payroll,EMEA,Employee,Active
+492,U00492,Sneha Roy,GBS,Reporting Services,EMEA,Contractor,Active
+493,U00493,Aditya Roy,GBS,Business Operations,APAC,Contractor,Active
+494,U00494,Nisha Roy,Procurement,Sourcing,APAC,Employee,Active
+495,U00495,Sanjay Roy,Finance,Financial Reporting,APAC,Employee,Inactive
+496,U00496,Kavya Roy,Finance,Treasury,NORAM,Employee,Active
+497,U00497,Amit Roy,Finance,Treasury,NORAM,Contractor,Active
+498,U00498,Pooja Roy,Procurement,Procurement Operations,APAC,Employee,Active
+499,U00499,Varun Roy,Finance,Accounts Receivable,APAC,Employee,Active
+500,U00500,Riya Roy,Procurement,Purchasing,EMEA,Employee,Active
+501,U00501,Aarav Gupta,Sales,Commercial,APAC,Employee,Active
+502,U00502,Anika Gupta,Sales,Commercial,LATAM,Employee,Inactive
+503,U00503,Rohan Gupta,Sales,Commercial,LATAM,Employee,Active
+504,U00504,Priya Gupta,HR,Talent Management,APAC,Employee,Active
+505,U00505,Arjun Gupta,IT,IT Operations,EMEA,Employee,Active
+506,U00506,Neha Gupta,GBS,Business Operations,LATAM,Employee,Active
+507,U00507,Vikram Gupta,Procurement,Sourcing,EMEA,Employee,Active
+508,U00508,Ishita Gupta,Procurement,Procurement Operations,NORAM,Employee,Active
+509,U00509,Karan Gupta,GBS,Reporting Services,APAC,Employee,Active
+510,U00510,Meera Gupta,IT,IT Operations,EMEA,Employee,Active
+511,U00511,Rahul Gupta,Finance,Accounts Payable,APAC,Employee,Active
+512,U00512,Sneha Gupta,GBS,Reporting Services,NORAM,Employee,Active
+513,U00513,Aditya Gupta,Sales,Order Management,EMEA,Employee,Active
+514,U00514,Nisha Gupta,GBS,Master Data,LATAM,Employee,Active
+515,U00515,Sanjay Gupta,Finance,Treasury,APAC,Employee,Active
+516,U00516,Kavya Gupta,Sales,Sales Operations,LATAM,Employee,Inactive
+517,U00517,Amit Gupta,Sales,Customer Service,APAC,Service Account,Active
+518,U00518,Pooja Gupta,Finance,Accounts Payable,EMEA,Employee,Active
+519,U00519,Varun Gupta,Procurement,Purchasing,APAC,Employee,Active
+520,U00520,Riya Gupta,GBS,Business Operations,APAC,Employee,Inactive
+521,U00521,Aarav Mehta,Finance,Financial Reporting,NORAM,Employee,Active
+522,U00522,Anika Mehta,Finance,Accounts Payable,LATAM,Employee,Active
+523,U00523,Rohan Mehta,Finance,Treasury,LATAM,Employee,Active
+524,U00524,Priya Mehta,Sales,Order Management,NORAM,Employee,Active
+525,U00525,Arjun Mehta,GBS,Master Data,NORAM,Employee,Active
+526,U00526,Neha Mehta,GBS,Shared Services,NORAM,Employee,Active
+527,U00527,Vikram Mehta,Sales,Order Management,EMEA,Employee,Active
+528,U00528,Ishita Mehta,Procurement,Purchasing,APAC,Employee,Active
+529,U00529,Karan Mehta,GBS,Shared Services,APAC,Employee,Active
+530,U00530,Meera Mehta,Procurement,Vendor Management,APAC,Employee,Inactive
+531,U00531,Rahul Mehta,IT,Security Administration,APAC,Employee,Inactive
+532,U00532,Sneha Mehta,HR,HR Systems,NORAM,Employee,Inactive
+533,U00533,Aditya Mehta,HR,HR Operations,APAC,Employee,Active
+534,U00534,Nisha Mehta,HR,HR Systems,EMEA,Employee,Active
+535,U00535,Sanjay Mehta,GBS,Master Data,APAC,Employee,Active
+536,U00536,Kavya Mehta,Procurement,Procurement Operations,LATAM,Employee,Active
+537,U00537,Amit Mehta,Sales,Order Management,EMEA,Employee,Active
+538,U00538,Pooja Mehta,Sales,Customer Service,APAC,Contractor,Active
+539,U00539,Varun Mehta,Finance,Treasury,APAC,Contractor,Active
+540,U00540,Riya Mehta,Finance,Treasury,NORAM,Employee,Active
+541,U00541,Aarav Nair,GBS,Business Operations,EMEA,Employee,Active
+542,U00542,Anika Nair,GBS,Reporting Services,EMEA,Employee,Active
+543,U00543,Rohan Nair,IT,Application Support,APAC,Employee,Active
+544,U00544,Priya Nair,Sales,Commercial,EMEA,Employee,Active
+545,U00545,Arjun Nair,HR,HR Systems,NORAM,Employee,Active
+546,U00546,Neha Nair,IT,Infrastructure,EMEA,Employee,Active
+547,U00547,Vikram Nair,Finance,Accounts Payable,EMEA,Contractor,Active
+548,U00548,Ishita Nair,Finance,Accounts Receivable,EMEA,Employee,Active
+549,U00549,Karan Nair,GBS,Master Data,EMEA,Employee,Active
+550,U00550,Meera Nair,GBS,Reporting Services,NORAM,Employee,Active
+551,U00551,Rahul Nair,Finance,Treasury,APAC,Employee,Active
+552,U00552,Sneha Nair,Sales,Order Management,APAC,Employee,Active
+553,U00553,Aditya Nair,GBS,Business Operations,NORAM,Employee,Active
+554,U00554,Nisha Nair,HR,Payroll,LATAM,Employee,Inactive
+555,U00555,Sanjay Nair,GBS,Business Operations,EMEA,Employee,Active
+556,U00556,Kavya Nair,GBS,Business Operations,EMEA,Employee,Active
+557,U00557,Amit Nair,GBS,Master Data,APAC,Employee,Active
+558,U00558,Pooja Nair,GBS,Business Operations,EMEA,Employee,Active
+559,U00559,Varun Nair,Sales,Commercial,APAC,Employee,Active
+560,U00560,Riya Nair,Finance,Accounts Payable,APAC,Employee,Active
+561,U00561,Aarav Iyer,Finance,Accounts Receivable,APAC,Employee,Active
+562,U00562,Anika Iyer,Finance,Financial Reporting,LATAM,Contractor,Active
+563,U00563,Rohan Iyer,HR,Talent Management,EMEA,Employee,Inactive
+564,U00564,Priya Iyer,GBS,Reporting Services,EMEA,Employee,Active
+565,U00565,Arjun Iyer,Finance,Treasury,EMEA,Employee,Active
+566,U00566,Neha Iyer,Procurement,Vendor Management,EMEA,Employee,Active
+567,U00567,Vikram Iyer,Finance,Financial Reporting,APAC,Employee,Active
+568,U00568,Ishita Iyer,HR,Payroll,LATAM,Employee,Active
+569,U00569,Karan Iyer,Finance,Accounts Payable,EMEA,Employee,Active
+570,U00570,Meera Iyer,IT,Application Support,NORAM,Employee,Active
+571,U00571,Rahul Iyer,Sales,Sales Operations,APAC,Employee,Active
+572,U00572,Sneha Iyer,Finance,Accounts Payable,EMEA,Employee,Active
+573,U00573,Aditya Iyer,Sales,Order Management,NORAM,Employee,Active
+574,U00574,Nisha Iyer,GBS,Reporting Services,APAC,Employee,Inactive
+575,U00575,Sanjay Iyer,Finance,Accounts Receivable,EMEA,Employee,Active
+576,U00576,Kavya Iyer,Sales,Order Management,EMEA,Employee,Active
+577,U00577,Amit Iyer,IT,IT Operations,APAC,Contractor,Active
+578,U00578,Pooja Iyer,Sales,Order Management,LATAM,Contractor,Active
+579,U00579,Varun Iyer,IT,Infrastructure,NORAM,Employee,Active
+580,U00580,Riya Iyer,HR,Payroll,APAC,Employee,Active
+581,U00581,Aarav Kapoor,GBS,Business Operations,EMEA,Employee,Active
+582,U00582,Anika Kapoor,Sales,Commercial,APAC,Contractor,Active
+583,U00583,Rohan Kapoor,GBS,Master Data,LATAM,Employee,Active
+584,U00584,Priya Kapoor,HR,HR Systems,EMEA,Employee,Active
+585,U00585,Arjun Kapoor,Procurement,Vendor Management,APAC,Employee,Active
+586,U00586,Neha Kapoor,HR,HR Operations,EMEA,Employee,Active
+587,U00587,Vikram Kapoor,Procurement,Sourcing,APAC,Employee,Active
+588,U00588,Ishita Kapoor,HR,HR Systems,LATAM,Employee,Active
+589,U00589,Karan Kapoor,IT,IT Operations,NORAM,Employee,Active
+590,U00590,Meera Kapoor,Sales,Commercial,NORAM,Employee,Active
+591,U00591,Rahul Kapoor,GBS,Shared Services,EMEA,Employee,Active
+592,U00592,Sneha Kapoor,GBS,Master Data,EMEA,Employee,Active
+593,U00593,Aditya Kapoor,Sales,Customer Service,LATAM,Employee,Active
+594,U00594,Nisha Kapoor,Sales,Commercial,EMEA,Employee,Active
+595,U00595,Sanjay Kapoor,Sales,Sales Operations,EMEA,Employee,Active
+596,U00596,Kavya Kapoor,IT,Infrastructure,APAC,Employee,Active
+597,U00597,Amit Kapoor,Finance,Accounts Payable,APAC,Employee,Active
+598,U00598,Pooja Kapoor,IT,Infrastructure,APAC,Employee,Active
+599,U00599,Varun Kapoor,Sales,Order Management,LATAM,Contractor,Active
+600,U00600,Riya Kapoor,GBS,Business Operations,APAC,Employee,Active
+601,U00601,Aarav Mishra,IT,Infrastructure,EMEA,Employee,Active
+602,U00602,Anika Mishra,Sales,Customer Service,LATAM,Employee,Active
+603,U00603,Rohan Mishra,HR,HR Systems,APAC,Employee,Active
+604,U00604,Priya Mishra,GBS,Business Operations,APAC,Employee,Active
+605,U00605,Arjun Mishra,Finance,Accounts Receivable,EMEA,Employee,Active
+606,U00606,Neha Mishra,Sales,Customer Service,APAC,Employee,Active
+607,U00607,Vikram Mishra,Finance,Accounts Payable,LATAM,Employee,Active
+608,U00608,Ishita Mishra,HR,Payroll,APAC,Employee,Active
+609,U00609,Karan Mishra,Finance,Accounts Payable,NORAM,Employee,Active
+610,U00610,Meera Mishra,GBS,Reporting Services,APAC,Employee,Active
+611,U00611,Rahul Mishra,IT,Security Administration,APAC,Employee,Inactive
+612,U00612,Sneha Mishra,Procurement,Sourcing,NORAM,Employee,Active
+613,U00613,Aditya Mishra,GBS,Master Data,LATAM,Employee,Active
+614,U00614,Nisha Mishra,Sales,Commercial,NORAM,Contractor,Active
+615,U00615,Sanjay Mishra,Procurement,Sourcing,LATAM,Employee,Active
+616,U00616,Kavya Mishra,GBS,Shared Services,LATAM,Employee,Active
+617,U00617,Amit Mishra,GBS,Shared Services,NORAM,Employee,Active
+618,U00618,Pooja Mishra,Sales,Order Management,APAC,Employee,Active
+619,U00619,Varun Mishra,Finance,Accounts Payable,APAC,Employee,Active
+620,U00620,Riya Mishra,IT,Infrastructure,EMEA,Contractor,Active
+621,U00621,Aarav Verma,GBS,Reporting Services,NORAM,Service Account,Active
+622,U00622,Anika Verma,HR,HR Operations,EMEA,Employee,Active
+623,U00623,Rohan Verma,IT,Application Support,EMEA,Employee,Active
+624,U00624,Priya Verma,Finance,Treasury,APAC,Employee,Active
+625,U00625,Arjun Verma,Finance,Treasury,APAC,Contractor,Active
+626,U00626,Neha Verma,Finance,Accounts Payable,APAC,Employee,Active
+627,U00627,Vikram Verma,HR,Payroll,LATAM,Employee,Active
+628,U00628,Ishita Verma,Finance,Accounts Receivable,LATAM,Service Account,Active
+629,U00629,Karan Verma,Sales,Order Management,NORAM,Employee,Active
+630,U00630,Meera Verma,Sales,Order Management,EMEA,Employee,Active
+631,U00631,Rahul Verma,HR,HR Systems,APAC,Employee,Inactive
+632,U00632,Sneha Verma,IT,Infrastructure,EMEA,Employee,Active
+633,U00633,Aditya Verma,Procurement,Purchasing,APAC,Employee,Active
+634,U00634,Nisha Verma,Procurement,Vendor Management,EMEA,Employee,Active
+635,U00635,Sanjay Verma,Procurement,Vendor Management,LATAM,Employee,Active
+636,U00636,Kavya Verma,IT,IT Operations,EMEA,Employee,Active
+637,U00637,Amit Verma,Procurement,Vendor Management,EMEA,Employee,Active
+638,U00638,Pooja Verma,HR,HR Operations,LATAM,Employee,Active
+639,U00639,Varun Verma,Sales,Order Management,APAC,Employee,Active
+640,U00640,Riya Verma,Procurement,Sourcing,EMEA,Employee,Inactive
+641,U00641,Aarav Joshi,Finance,Accounts Payable,EMEA,Employee,Active
+642,U00642,Anika Joshi,Procurement,Sourcing,APAC,Contractor,Active
+643,U00643,Rohan Joshi,Finance,Accounts Payable,LATAM,Employee,Active
+644,U00644,Priya Joshi,GBS,Shared Services,APAC,Service Account,Active
+645,U00645,Arjun Joshi,HR,Talent Management,EMEA,Contractor,Active
+646,U00646,Neha Joshi,GBS,Master Data,APAC,Employee,Active
+647,U00647,Vikram Joshi,Finance,Accounts Receivable,EMEA,Employee,Active
+648,U00648,Ishita Joshi,Sales,Commercial,NORAM,Employee,Active
+649,U00649,Karan Joshi,Procurement,Purchasing,APAC,Employee,Active
+650,U00650,Meera Joshi,Finance,Treasury,APAC,Employee,Inactive
+651,U00651,Rahul Joshi,HR,Payroll,EMEA,Employee,Active
+652,U00652,Sneha Joshi,HR,Talent Management,APAC,Employee,Active
+653,U00653,Aditya Joshi,IT,IT Operations,APAC,Employee,Active
+654,U00654,Nisha Joshi,Finance,Accounts Receivable,LATAM,Employee,Active
+655,U00655,Sanjay Joshi,Finance,Financial Reporting,EMEA,Employee,Active
+656,U00656,Kavya Joshi,GBS,Master Data,LATAM,Employee,Active
+657,U00657,Amit Joshi,Finance,Accounts Receivable,EMEA,Employee,Active
+658,U00658,Pooja Joshi,Finance,Treasury,APAC,Contractor,Active
+659,U00659,Varun Joshi,GBS,Business Operations,EMEA,Employee,Active
+660,U00660,Riya Joshi,Procurement,Sourcing,APAC,Employee,Active
+661,U00661,Aarav Bose,Sales,Order Management,APAC,Contractor,Active
+662,U00662,Anika Bose,GBS,Reporting Services,NORAM,Employee,Active
+663,U00663,Rohan Bose,GBS,Shared Services,APAC,Employee,Active
+664,U00664,Priya Bose,Finance,Financial Reporting,APAC,Employee,Active
+665,U00665,Arjun Bose,Finance,Accounts Payable,NORAM,Employee,Active
+666,U00666,Neha Bose,Sales,Customer Service,EMEA,Employee,Active
+667,U00667,Vikram Bose,Procurement,Procurement Operations,APAC,Employee,Active
+668,U00668,Ishita Bose,Procurement,Procurement Operations,NORAM,Employee,Active
+669,U00669,Karan Bose,HR,Talent Management,APAC,Employee,Active
+670,U00670,Meera Bose,GBS,Shared Services,NORAM,Employee,Active
+671,U00671,Rahul Bose,IT,IT Operations,APAC,Employee,Active
+672,U00672,Sneha Bose,Sales,Commercial,NORAM,Employee,Active
+673,U00673,Aditya Bose,Procurement,Purchasing,APAC,Employee,Active
+674,U00674,Nisha Bose,Procurement,Sourcing,NORAM,Employee,Active
+675,U00675,Sanjay Bose,Procurement,Sourcing,NORAM,Employee,Inactive
+676,U00676,Kavya Bose,Finance,Treasury,EMEA,Employee,Active
+677,U00677,Amit Bose,IT,Application Support,NORAM,Service Account,Active
+678,U00678,Pooja Bose,HR,Payroll,LATAM,Employee,Active
+679,U00679,Varun Bose,Finance,Treasury,NORAM,Employee,Active
+680,U00680,Riya Bose,HR,Talent Management,APAC,Employee,Active
+681,U00681,Aarav Reddy,HR,HR Systems,APAC,Contractor,Active
+682,U00682,Anika Reddy,Sales,Sales Operations,EMEA,Employee,Active
+683,U00683,Rohan Reddy,Sales,Sales Operations,LATAM,Employee,Active
+684,U00684,Priya Reddy,GBS,Shared Services,LATAM,Employee,Active
+685,U00685,Arjun Reddy,HR,HR Systems,APAC,Employee,Active
+686,U00686,Neha Reddy,IT,Application Support,NORAM,Employee,Active
+687,U00687,Vikram Reddy,Sales,Customer Service,LATAM,Contractor,Active
+688,U00688,Ishita Reddy,GBS,Reporting Services,LATAM,Employee,Inactive
+689,U00689,Karan Reddy,Finance,Accounts Receivable,APAC,Employee,Active
+690,U00690,Meera Reddy,Finance,Accounts Receivable,LATAM,Employee,Active
+691,U00691,Rahul Reddy,IT,Infrastructure,EMEA,Employee,Active
+692,U00692,Sneha Reddy,Procurement,Purchasing,APAC,Employee,Active
+693,U00693,Aditya Reddy,Sales,Sales Operations,APAC,Employee,Active
+694,U00694,Nisha Reddy,Procurement,Vendor Management,APAC,Employee,Active
+695,U00695,Sanjay Reddy,Sales,Order Management,APAC,Employee,Active
+696,U00696,Kavya Reddy,IT,Security Administration,LATAM,Employee,Active
+697,U00697,Amit Reddy,Finance,Financial Reporting,NORAM,Employee,Active
+698,U00698,Pooja Reddy,Finance,Accounts Payable,NORAM,Employee,Active
+699,U00699,Varun Reddy,Finance,Accounts Receivable,APAC,Employee,Active
+700,U00700,Riya Reddy,IT,IT Operations,NORAM,Employee,Active
+701,U00701,Aarav Khan,Finance,Accounts Payable,APAC,Employee,Active
+702,U00702,Anika Khan,Procurement,Vendor Management,APAC,Employee,Active
+703,U00703,Rohan Khan,Procurement,Procurement Operations,LATAM,Employee,Active
+704,U00704,Priya Khan,HR,HR Systems,NORAM,Employee,Active
+705,U00705,Arjun Khan,Finance,Treasury,LATAM,Employee,Active
+706,U00706,Neha Khan,GBS,Reporting Services,NORAM,Employee,Active
+707,U00707,Vikram Khan,Procurement,Vendor Management,EMEA,Contractor,Active
+708,U00708,Ishita Khan,Sales,Order Management,APAC,Employee,Active
+709,U00709,Karan Khan,IT,Security Administration,APAC,Employee,Active
+710,U00710,Meera Khan,Finance,Treasury,EMEA,Employee,Active
+711,U00711,Rahul Khan,Sales,Sales Operations,APAC,Employee,Active
+712,U00712,Sneha Khan,IT,Infrastructure,LATAM,Contractor,Active
+713,U00713,Aditya Khan,GBS,Business Operations,APAC,Employee,Active
+714,U00714,Nisha Khan,Finance,Accounts Receivable,APAC,Employee,Active
+715,U00715,Sanjay Khan,HR,Talent Management,NORAM,Employee,Inactive
+716,U00716,Kavya Khan,Procurement,Sourcing,APAC,Employee,Active
+717,U00717,Amit Khan,IT,Application Support,APAC,Employee,Active
+718,U00718,Pooja Khan,Finance,Financial Reporting,EMEA,Employee,Active
+719,U00719,Varun Khan,Finance,Accounts Payable,APAC,Employee,Active
+720,U00720,Riya Khan,GBS,Reporting Services,APAC,Employee,Active
+721,U00721,Aarav Chatterjee,GBS,Business Operations,LATAM,Employee,Active
+722,U00722,Anika Chatterjee,HR,Talent Management,APAC,Employee,Active
+723,U00723,Rohan Chatterjee,Sales,Order Management,EMEA,Employee,Active
+724,U00724,Priya Chatterjee,Finance,Treasury,NORAM,Employee,Active
+725,U00725,Arjun Chatterjee,HR,HR Operations,APAC,Employee,Inactive
+726,U00726,Neha Chatterjee,Sales,Order Management,APAC,Employee,Active
+727,U00727,Vikram Chatterjee,IT,Application Support,APAC,Contractor,Active
+728,U00728,Ishita Chatterjee,HR,HR Systems,NORAM,Employee,Active
+729,U00729,Karan Chatterjee,Sales,Sales Operations,APAC,Employee,Active
+730,U00730,Meera Chatterjee,Finance,Financial Reporting,APAC,Employee,Active
+731,U00731,Rahul Chatterjee,HR,HR Operations,EMEA,Employee,Active
+732,U00732,Sneha Chatterjee,Procurement,Vendor Management,NORAM,Employee,Active
+733,U00733,Aditya Chatterjee,Sales,Order Management,NORAM,Employee,Active
+734,U00734,Nisha Chatterjee,Finance,Treasury,LATAM,Employee,Active
+735,U00735,Sanjay Chatterjee,GBS,Shared Services,APAC,Employee,Inactive
+736,U00736,Kavya Chatterjee,HR,Talent Management,APAC,Contractor,Active
+737,U00737,Amit Chatterjee,Sales,Commercial,APAC,Employee,Active
+738,U00738,Pooja Chatterjee,Finance,Financial Reporting,APAC,Employee,Inactive
+739,U00739,Varun Chatterjee,Sales,Commercial,NORAM,Employee,Active
+740,U00740,Riya Chatterjee,Sales,Customer Service,NORAM,Employee,Active
+741,U00741,Aarav Sen,GBS,Master Data,APAC,Employee,Active
+742,U00742,Anika Sen,Procurement,Purchasing,EMEA,Contractor,Active
+743,U00743,Rohan Sen,Sales,Order Management,NORAM,Employee,Active
+744,U00744,Priya Sen,Sales,Sales Operations,NORAM,Employee,Active
+745,U00745,Arjun Sen,IT,Application Support,APAC,Employee,Inactive
+746,U00746,Neha Sen,Procurement,Purchasing,EMEA,Employee,Active
+747,U00747,Vikram Sen,Sales,Customer Service,NORAM,Employee,Active
+748,U00748,Ishita Sen,HR,Talent Management,EMEA,Employee,Active
+749,U00749,Karan Sen,IT,Application Support,APAC,Employee,Active
+750,U00750,Meera Sen,Finance,Financial Reporting,LATAM,Employee,Active
+751,U00751,Rahul Sen,Sales,Customer Service,LATAM,Employee,Active
+752,U00752,Sneha Sen,Procurement,Sourcing,LATAM,Contractor,Active
+753,U00753,Aditya Sen,Procurement,Vendor Management,EMEA,Contractor,Active
+754,U00754,Nisha Sen,Procurement,Vendor Management,APAC,Employee,Active
+755,U00755,Sanjay Sen,Finance,Accounts Payable,LATAM,Employee,Active
+756,U00756,Kavya Sen,IT,Infrastructure,EMEA,Employee,Active
+757,U00757,Amit Sen,Sales,Sales Operations,LATAM,Employee,Active
+758,U00758,Pooja Sen,Procurement,Procurement Operations,EMEA,Employee,Active
+759,U00759,Varun Sen,Finance,Financial Reporting,APAC,Employee,Active
+760,U00760,Riya Sen,HR,Talent Management,NORAM,Employee,Active
+761,U00761,Aarav Malhotra,GBS,Master Data,NORAM,Employee,Active
+762,U00762,Anika Malhotra,Sales,Sales Operations,APAC,Contractor,Active
+763,U00763,Rohan Malhotra,GBS,Reporting Services,EMEA,Service Account,Active
+764,U00764,Priya Malhotra,Finance,Financial Reporting,EMEA,Employee,Active
+765,U00765,Arjun Malhotra,Finance,Financial Reporting,APAC,Employee,Inactive
+766,U00766,Neha Malhotra,Procurement,Vendor Management,LATAM,Employee,Active
+767,U00767,Vikram Malhotra,IT,Application Support,NORAM,Employee,Active
+768,U00768,Ishita Malhotra,Finance,Accounts Receivable,APAC,Service Account,Active
+769,U00769,Karan Malhotra,GBS,Shared Services,APAC,Employee,Active
+770,U00770,Meera Malhotra,IT,IT Operations,APAC,Employee,Active
+771,U00771,Rahul Malhotra,IT,Security Administration,APAC,Employee,Active
+772,U00772,Sneha Malhotra,Sales,Customer Service,EMEA,Employee,Active
+773,U00773,Aditya Malhotra,HR,Talent Management,NORAM,Contractor,Active
+774,U00774,Nisha Malhotra,HR,Payroll,EMEA,Employee,Active
+775,U00775,Sanjay Malhotra,HR,Talent Management,NORAM,Employee,Active
+776,U00776,Kavya Malhotra,Procurement,Vendor Management,EMEA,Employee,Inactive
+777,U00777,Amit Malhotra,GBS,Reporting Services,APAC,Employee,Active
+778,U00778,Pooja Malhotra,IT,Infrastructure,EMEA,Employee,Active
+779,U00779,Varun Malhotra,HR,Payroll,EMEA,Employee,Active
+780,U00780,Riya Malhotra,Sales,Order Management,NORAM,Employee,Active
+781,U00781,Aarav Sinha,GBS,Reporting Services,LATAM,Service Account,Active
+782,U00782,Anika Sinha,IT,Infrastructure,EMEA,Employee,Active
+783,U00783,Rohan Sinha,IT,Infrastructure,LATAM,Employee,Active
+784,U00784,Priya Sinha,Sales,Customer Service,EMEA,Employee,Active
+785,U00785,Arjun Sinha,GBS,Business Operations,APAC,Employee,Active
+786,U00786,Neha Sinha,Finance,Accounts Receivable,NORAM,Employee,Active
+787,U00787,Vikram Sinha,HR,HR Systems,APAC,Contractor,Active
+788,U00788,Ishita Sinha,GBS,Shared Services,APAC,Employee,Active
+789,U00789,Karan Sinha,Sales,Commercial,APAC,Employee,Active
+790,U00790,Meera Sinha,HR,HR Systems,APAC,Employee,Active
+791,U00791,Rahul Sinha,IT,IT Operations,LATAM,Employee,Active
+792,U00792,Sneha Sinha,IT,Application Support,EMEA,Contractor,Active
+793,U00793,Aditya Sinha,GBS,Master Data,LATAM,Employee,Active
+794,U00794,Nisha Sinha,Procurement,Procurement Operations,NORAM,Employee,Active
+795,U00795,Sanjay Sinha,Sales,Sales Operations,EMEA,Employee,Active
+796,U00796,Kavya Sinha,IT,Application Support,APAC,Employee,Active
+797,U00797,Amit Sinha,Sales,Customer Service,LATAM,Employee,Active
+798,U00798,Pooja Sinha,Sales,Customer Service,NORAM,Employee,Active
+799,U00799,Varun Sinha,Procurement,Sourcing,APAC,Employee,Active
+800,U00800,Riya Sinha,GBS,Business Operations,LATAM,Contractor,Active
+801,U00801,Aarav Sharma,Procurement,Purchasing,EMEA,Employee,Active
+802,U00802,Anika Sharma,Finance,Accounts Payable,APAC,Employee,Active
+803,U00803,Rohan Sharma,Procurement,Purchasing,APAC,Employee,Active
+804,U00804,Priya Sharma,HR,Talent Management,NORAM,Employee,Active
+805,U00805,Arjun Sharma,Procurement,Purchasing,EMEA,Employee,Active
+806,U00806,Neha Sharma,GBS,Business Operations,NORAM,Employee,Active
+807,U00807,Vikram Sharma,IT,IT Operations,APAC,Employee,Active
+808,U00808,Ishita Sharma,HR,Talent Management,EMEA,Employee,Inactive
+809,U00809,Karan Sharma,GBS,Shared Services,NORAM,Employee,Active
+810,U00810,Meera Sharma,Finance,Accounts Payable,NORAM,Employee,Inactive
+811,U00811,Rahul Sharma,IT,Application Support,EMEA,Employee,Active
+812,U00812,Sneha Sharma,Procurement,Purchasing,APAC,Employee,Active
+813,U00813,Aditya Sharma,Procurement,Procurement Operations,APAC,Employee,Active
+814,U00814,Nisha Sharma,Finance,Accounts Payable,APAC,Contractor,Active
+815,U00815,Sanjay Sharma,IT,Application Support,EMEA,Employee,Active
+816,U00816,Kavya Sharma,Procurement,Sourcing,EMEA,Employee,Active
+817,U00817,Amit Sharma,Procurement,Sourcing,NORAM,Contractor,Active
+818,U00818,Pooja Sharma,HR,Payroll,APAC,Employee,Active
+819,U00819,Varun Sharma,Finance,Treasury,EMEA,Employee,Active
+820,U00820,Riya Sharma,Procurement,Purchasing,LATAM,Employee,Active
+821,U00821,Aarav Patel,Finance,Accounts Payable,APAC,Employee,Active
+822,U00822,Anika Patel,Sales,Customer Service,APAC,Employee,Inactive
+823,U00823,Rohan Patel,Sales,Customer Service,APAC,Employee,Active
+824,U00824,Priya Patel,Finance,Treasury,APAC,Employee,Active
+825,U00825,Arjun Patel,Sales,Commercial,LATAM,Employee,Active
+826,U00826,Neha Patel,IT,Infrastructure,LATAM,Employee,Active
+827,U00827,Vikram Patel,GBS,Business Operations,EMEA,Employee,Active
+828,U00828,Ishita Patel,GBS,Business Operations,EMEA,Employee,Active
+829,U00829,Karan Patel,GBS,Reporting Services,NORAM,Employee,Active
+830,U00830,Meera Patel,GBS,Shared Services,EMEA,Employee,Active
+831,U00831,Rahul Patel,GBS,Shared Services,NORAM,Employee,Active
+832,U00832,Sneha Patel,Procurement,Purchasing,APAC,Employee,Active
+833,U00833,Aditya Patel,Finance,Accounts Payable,APAC,Contractor,Active
+834,U00834,Nisha Patel,Procurement,Vendor Management,APAC,Employee,Active
+835,U00835,Sanjay Patel,IT,Infrastructure,APAC,Employee,Active
+836,U00836,Kavya Patel,GBS,Master Data,APAC,Service Account,Active
+837,U00837,Amit Patel,Finance,Accounts Receivable,APAC,Employee,Active
+838,U00838,Pooja Patel,Procurement,Sourcing,NORAM,Employee,Active
+839,U00839,Varun Patel,GBS,Master Data,NORAM,Employee,Active
+840,U00840,Riya Patel,IT,Infrastructure,APAC,Employee,Active
+841,U00841,Aarav Singh,Finance,Accounts Receivable,LATAM,Employee,Active
+842,U00842,Anika Singh,GBS,Business Operations,LATAM,Employee,Active
+843,U00843,Rohan Singh,IT,Security Administration,APAC,Employee,Active
+844,U00844,Priya Singh,HR,HR Operations,NORAM,Employee,Active
+845,U00845,Arjun Singh,Sales,Order Management,APAC,Employee,Active
+846,U00846,Neha Singh,Finance,Accounts Receivable,APAC,Employee,Active
+847,U00847,Vikram Singh,HR,Talent Management,NORAM,Employee,Active
+848,U00848,Ishita Singh,HR,HR Systems,APAC,Employee,Active
+849,U00849,Karan Singh,Sales,Order Management,NORAM,Employee,Active
+850,U00850,Meera Singh,HR,Payroll,EMEA,Employee,Active
+851,U00851,Rahul Singh,Sales,Sales Operations,APAC,Contractor,Active
+852,U00852,Sneha Singh,Sales,Sales Operations,EMEA,Employee,Active
+853,U00853,Aditya Singh,Procurement,Sourcing,NORAM,Employee,Active
+854,U00854,Nisha Singh,Procurement,Purchasing,NORAM,Employee,Active
+855,U00855,Sanjay Singh,HR,HR Operations,EMEA,Employee,Active
+856,U00856,Kavya Singh,Procurement,Procurement Operations,APAC,Employee,Active
+857,U00857,Amit Singh,Procurement,Procurement Operations,EMEA,Employee,Active
+858,U00858,Pooja Singh,Sales,Sales Operations,NORAM,Employee,Active
+859,U00859,Varun Singh,Finance,Treasury,APAC,Contractor,Active
+860,U00860,Riya Singh,HR,Talent Management,APAC,Employee,Active
+861,U00861,Aarav Das,Procurement,Procurement Operations,APAC,Employee,Active
+862,U00862,Anika Das,Sales,Order Management,APAC,Contractor,Inactive
+863,U00863,Rohan Das,Sales,Sales Operations,LATAM,Employee,Active
+864,U00864,Priya Das,GBS,Reporting Services,APAC,Service Account,Active
+865,U00865,Arjun Das,GBS,Master Data,APAC,Employee,Active
+866,U00866,Neha Das,Sales,Sales Operations,LATAM,Employee,Active
+867,U00867,Vikram Das,Sales,Commercial,APAC,Employee,Active
+868,U00868,Ishita Das,IT,Security Administration,EMEA,Employee,Active
+869,U00869,Karan Das,GBS,Master Data,EMEA,Employee,Active
+870,U00870,Meera Das,Sales,Commercial,LATAM,Employee,Active
+871,U00871,Rahul Das,Procurement,Purchasing,EMEA,Employee,Active
+872,U00872,Sneha Das,Procurement,Vendor Management,LATAM,Employee,Active
+873,U00873,Aditya Das,Procurement,Purchasing,EMEA,Employee,Active
+874,U00874,Nisha Das,GBS,Reporting Services,EMEA,Employee,Active
+875,U00875,Sanjay Das,Finance,Financial Reporting,APAC,Employee,Active
+876,U00876,Kavya Das,Sales,Sales Operations,APAC,Employee,Active
+877,U00877,Amit Das,Finance,Accounts Receivable,APAC,Contractor,Active
+878,U00878,Pooja Das,Finance,Financial Reporting,LATAM,Employee,Active
+879,U00879,Varun Das,GBS,Reporting Services,NORAM,Employee,Active
+880,U00880,Riya Das,GBS,Business Operations,LATAM,Employee,Active
+881,U00881,Aarav Roy,Procurement,Vendor Management,NORAM,Employee,Active
+882,U00882,Anika Roy,Finance,Accounts Payable,EMEA,Employee,Active
+883,U00883,Rohan Roy,Finance,Financial Reporting,APAC,Employee,Active
+884,U00884,Priya Roy,Finance,Treasury,APAC,Employee,Active
+885,U00885,Arjun Roy,Sales,Commercial,APAC,Employee,Active
+886,U00886,Neha Roy,Procurement,Vendor Management,APAC,Employee,Active
+887,U00887,Vikram Roy,Sales,Order Management,LATAM,Service Account,Active
+888,U00888,Ishita Roy,Finance,Treasury,APAC,Employee,Inactive
+889,U00889,Karan Roy,Finance,Treasury,APAC,Employee,Active
+890,U00890,Meera Roy,Procurement,Purchasing,LATAM,Employee,Active
+891,U00891,Rahul Roy,Finance,Accounts Payable,APAC,Employee,Active
+892,U00892,Sneha Roy,Procurement,Purchasing,APAC,Contractor,Inactive
+893,U00893,Aditya Roy,HR,Payroll,APAC,Employee,Active
+894,U00894,Nisha Roy,IT,Infrastructure,APAC,Employee,Active
+895,U00895,Sanjay Roy,GBS,Reporting Services,LATAM,Employee,Active
+896,U00896,Kavya Roy,Sales,Commercial,LATAM,Employee,Active
+897,U00897,Amit Roy,HR,HR Operations,APAC,Employee,Active
+898,U00898,Pooja Roy,GBS,Reporting Services,APAC,Employee,Active
+899,U00899,Varun Roy,IT,Infrastructure,LATAM,Employee,Active
+900,U00900,Riya Roy,Procurement,Sourcing,APAC,Employee,Active
+901,U00901,Aarav Gupta,GBS,Shared Services,EMEA,Employee,Active
+902,U00902,Anika Gupta,GBS,Reporting Services,APAC,Contractor,Active
+903,U00903,Rohan Gupta,GBS,Master Data,NORAM,Employee,Active
+904,U00904,Priya Gupta,Finance,Treasury,NORAM,Employee,Active
+905,U00905,Arjun Gupta,GBS,Business Operations,EMEA,Employee,Active
+906,U00906,Neha Gupta,Finance,Accounts Payable,APAC,Employee,Active
+907,U00907,Vikram Gupta,HR,HR Operations,EMEA,Employee,Active
+908,U00908,Ishita Gupta,IT,Security Administration,APAC,Employee,Active
+909,U00909,Karan Gupta,Sales,Order Management,APAC,Employee,Active
+910,U00910,Meera Gupta,IT,Infrastructure,NORAM,Employee,Active
+911,U00911,Rahul Gupta,Procurement,Sourcing,EMEA,Employee,Active
+912,U00912,Sneha Gupta,Procurement,Vendor Management,NORAM,Employee,Active
+913,U00913,Aditya Gupta,GBS,Reporting Services,NORAM,Employee,Active
+914,U00914,Nisha Gupta,Sales,Order Management,APAC,Employee,Active
+915,U00915,Sanjay Gupta,Sales,Sales Operations,APAC,Employee,Active
+916,U00916,Kavya Gupta,Procurement,Procurement Operations,EMEA,Contractor,Active
+917,U00917,Amit Gupta,GBS,Master Data,LATAM,Employee,Active
+918,U00918,Pooja Gupta,Sales,Sales Operations,NORAM,Contractor,Active
+919,U00919,Varun Gupta,HR,HR Operations,EMEA,Employee,Inactive
+920,U00920,Riya Gupta,Sales,Sales Operations,LATAM,Employee,Active
+921,U00921,Aarav Mehta,Sales,Order Management,APAC,Employee,Active
+922,U00922,Anika Mehta,Procurement,Vendor Management,APAC,Employee,Active
+923,U00923,Rohan Mehta,Sales,Commercial,EMEA,Employee,Active
+924,U00924,Priya Mehta,HR,HR Operations,APAC,Contractor,Inactive
+925,U00925,Arjun Mehta,Sales,Order Management,EMEA,Employee,Active
+926,U00926,Neha Mehta,Sales,Order Management,EMEA,Employee,Inactive
+927,U00927,Vikram Mehta,Sales,Sales Operations,EMEA,Service Account,Active
+928,U00928,Ishita Mehta,GBS,Reporting Services,APAC,Employee,Active
+929,U00929,Karan Mehta,HR,Talent Management,NORAM,Contractor,Active
+930,U00930,Meera Mehta,Finance,Treasury,NORAM,Employee,Active
+931,U00931,Rahul Mehta,GBS,Reporting Services,APAC,Employee,Active
+932,U00932,Sneha Mehta,Finance,Accounts Payable,NORAM,Employee,Active
+933,U00933,Aditya Mehta,Procurement,Procurement Operations,APAC,Contractor,Active
+934,U00934,Nisha Mehta,Finance,Financial Reporting,APAC,Employee,Active
+935,U00935,Sanjay Mehta,HR,HR Operations,NORAM,Employee,Inactive
+936,U00936,Kavya Mehta,Sales,Customer Service,APAC,Employee,Active
+937,U00937,Amit Mehta,Sales,Sales Operations,EMEA,Employee,Active
+938,U00938,Pooja Mehta,Finance,Accounts Payable,LATAM,Employee,Active
+939,U00939,Varun Mehta,Finance,Financial Reporting,APAC,Employee,Active
+940,U00940,Riya Mehta,HR,Payroll,APAC,Employee,Active
+941,U00941,Aarav Nair,GBS,Reporting Services,NORAM,Employee,Inactive
+942,U00942,Anika Nair,Finance,Accounts Payable,EMEA,Contractor,Active
+943,U00943,Rohan Nair,IT,Infrastructure,NORAM,Employee,Active
+944,U00944,Priya Nair,IT,IT Operations,APAC,Employee,Inactive
+945,U00945,Arjun Nair,Finance,Financial Reporting,APAC,Employee,Active
+946,U00946,Neha Nair,Sales,Commercial,NORAM,Employee,Inactive
+947,U00947,Vikram Nair,Sales,Customer Service,APAC,Contractor,Active
+948,U00948,Ishita Nair,Procurement,Procurement Operations,NORAM,Employee,Active
+949,U00949,Karan Nair,Sales,Sales Operations,NORAM,Employee,Active
+950,U00950,Meera Nair,Sales,Commercial,NORAM,Contractor,Active
+951,U00951,Rahul Nair,Finance,Financial Reporting,LATAM,Employee,Active
+952,U00952,Sneha Nair,Finance,Accounts Receivable,APAC,Employee,Active
+953,U00953,Aditya Nair,GBS,Business Operations,LATAM,Employee,Active
+954,U00954,Nisha Nair,HR,HR Operations,APAC,Employee,Inactive
+955,U00955,Sanjay Nair,HR,Talent Management,EMEA,Employee,Active
+956,U00956,Kavya Nair,Sales,Commercial,NORAM,Employee,Active
+957,U00957,Amit Nair,GBS,Master Data,APAC,Employee,Active
+958,U00958,Pooja Nair,Procurement,Purchasing,LATAM,Employee,Active
+959,U00959,Varun Nair,IT,Security Administration,NORAM,Employee,Active
+960,U00960,Riya Nair,GBS,Master Data,NORAM,Employee,Active
+961,U00961,Aarav Iyer,GBS,Business Operations,EMEA,Employee,Active
+962,U00962,Anika Iyer,HR,Talent Management,APAC,Employee,Active
+963,U00963,Rohan Iyer,GBS,Business Operations,LATAM,Employee,Active
+964,U00964,Priya Iyer,GBS,Shared Services,APAC,Employee,Inactive
+965,U00965,Arjun Iyer,Sales,Customer Service,APAC,Employee,Active
+966,U00966,Neha Iyer,Procurement,Procurement Operations,NORAM,Contractor,Active
+967,U00967,Vikram Iyer,GBS,Reporting Services,NORAM,Employee,Inactive
+968,U00968,Ishita Iyer,IT,Infrastructure,APAC,Contractor,Active
+969,U00969,Karan Iyer,GBS,Reporting Services,EMEA,Employee,Active
+970,U00970,Meera Iyer,Sales,Sales Operations,NORAM,Service Account,Active
+971,U00971,Rahul Iyer,Finance,Accounts Receivable,EMEA,Employee,Active
+972,U00972,Sneha Iyer,Procurement,Purchasing,APAC,Employee,Active
+973,U00973,Aditya Iyer,HR,HR Operations,NORAM,Employee,Active
+974,U00974,Nisha Iyer,Finance,Accounts Payable,EMEA,Employee,Active
+975,U00975,Sanjay Iyer,Sales,Order Management,LATAM,Employee,Active
+976,U00976,Kavya Iyer,IT,IT Operations,EMEA,Employee,Active
+977,U00977,Amit Iyer,Sales,Order Management,APAC,Employee,Active
+978,U00978,Pooja Iyer,IT,Infrastructure,APAC,Employee,Active
+979,U00979,Varun Iyer,IT,Infrastructure,APAC,Employee,Active
+980,U00980,Riya Iyer,GBS,Shared Services,APAC,Contractor,Active
+981,U00981,Aarav Kapoor,Procurement,Vendor Management,NORAM,Employee,Active
+982,U00982,Anika Kapoor,IT,Security Administration,EMEA,Employee,Inactive
+983,U00983,Rohan Kapoor,Sales,Sales Operations,APAC,Employee,Active
+984,U00984,Priya Kapoor,HR,Payroll,APAC,Employee,Active
+985,U00985,Arjun Kapoor,Procurement,Purchasing,APAC,Contractor,Active
+986,U00986,Neha Kapoor,Procurement,Sourcing,EMEA,Employee,Active
+987,U00987,Vikram Kapoor,Procurement,Purchasing,APAC,Employee,Active
+988,U00988,Ishita Kapoor,GBS,Master Data,LATAM,Employee,Active
+989,U00989,Karan Kapoor,Sales,Sales Operations,EMEA,Employee,Active
+990,U00990,Meera Kapoor,GBS,Master Data,NORAM,Employee,Active
+991,U00991,Rahul Kapoor,Procurement,Vendor Management,EMEA,Employee,Active
+992,U00992,Sneha Kapoor,Sales,Order Management,EMEA,Employee,Active
+993,U00993,Aditya Kapoor,Finance,Treasury,APAC,Employee,Active
+994,U00994,Nisha Kapoor,Procurement,Sourcing,LATAM,Employee,Active
+995,U00995,Sanjay Kapoor,Finance,Treasury,NORAM,Employee,Active
+996,U00996,Kavya Kapoor,GBS,Master Data,LATAM,Employee,Active
+997,U00997,Amit Kapoor,IT,Infrastructure,LATAM,Employee,Active
+998,U00998,Pooja Kapoor,Finance,Accounts Payable,APAC,Employee,Active
+999,U00999,Varun Kapoor,GBS,Shared Services,APAC,Employee,Active
+1000,U01000,Riya Kapoor,Sales,Commercial,EMEA,Employee,Active
+1001,U01001,Aarav Mishra,Finance,Financial Reporting,EMEA,Employee,Active
+1002,U01002,Anika Mishra,Sales,Sales Operations,EMEA,Employee,Active
+1003,U01003,Rohan Mishra,Procurement,Procurement Operations,EMEA,Contractor,Active
+1004,U01004,Priya Mishra,Finance,Financial Reporting,APAC,Employee,Active
+1005,U01005,Arjun Mishra,IT,IT Operations,APAC,Employee,Active
+1006,U01006,Neha Mishra,GBS,Shared Services,NORAM,Employee,Active
+1007,U01007,Vikram Mishra,IT,IT Operations,EMEA,Employee,Active
+1008,U01008,Ishita Mishra,IT,Security Administration,EMEA,Employee,Active
+1009,U01009,Karan Mishra,IT,Application Support,APAC,Employee,Inactive
+1010,U01010,Meera Mishra,Finance,Treasury,LATAM,Employee,Active
+1011,U01011,Rahul Mishra,Procurement,Vendor Management,APAC,Employee,Active
+1012,U01012,Sneha Mishra,Finance,Treasury,NORAM,Employee,Active
+1013,U01013,Aditya Mishra,Procurement,Sourcing,NORAM,Employee,Inactive
+1014,U01014,Nisha Mishra,IT,Infrastructure,LATAM,Employee,Active
+1015,U01015,Sanjay Mishra,GBS,Shared Services,NORAM,Employee,Inactive
+1016,U01016,Kavya Mishra,HR,HR Operations,EMEA,Employee,Active
+1017,U01017,Amit Mishra,Finance,Financial Reporting,NORAM,Employee,Active
+1018,U01018,Pooja Mishra,Finance,Accounts Receivable,EMEA,Employee,Active
+1019,U01019,Varun Mishra,IT,IT Operations,LATAM,Employee,Active
+1020,U01020,Riya Mishra,Sales,Commercial,LATAM,Employee,Active
+1021,U01021,Aarav Verma,Procurement,Procurement Operations,NORAM,Employee,Active
+1022,U01022,Anika Verma,GBS,Master Data,EMEA,Employee,Active
+1023,U01023,Rohan Verma,Sales,Sales Operations,LATAM,Service Account,Active
+1024,U01024,Priya Verma,IT,Infrastructure,APAC,Employee,Active
+1025,U01025,Arjun Verma,Finance,Accounts Payable,LATAM,Employee,Active
+1026,U01026,Neha Verma,Sales,Commercial,APAC,Employee,Active
+1027,U01027,Vikram Verma,Sales,Customer Service,EMEA,Employee,Active
+1028,U01028,Ishita Verma,HR,Payroll,LATAM,Employee,Active
+1029,U01029,Karan Verma,GBS,Business Operations,APAC,Employee,Active
+1030,U01030,Meera Verma,Sales,Sales Operations,APAC,Employee,Active
+1031,U01031,Rahul Verma,Finance,Treasury,NORAM,Employee,Active
+1032,U01032,Sneha Verma,Procurement,Purchasing,APAC,Employee,Inactive
+1033,U01033,Aditya Verma,Procurement,Vendor Management,LATAM,Employee,Active
+1034,U01034,Nisha Verma,Sales,Commercial,NORAM,Employee,Active
+1035,U01035,Sanjay Verma,Finance,Financial Reporting,LATAM,Contractor,Active
+1036,U01036,Kavya Verma,HR,Payroll,APAC,Employee,Active
+1037,U01037,Amit Verma,Sales,Order Management,EMEA,Employee,Active
+1038,U01038,Pooja Verma,Procurement,Sourcing,LATAM,Employee,Active
+1039,U01039,Varun Verma,Procurement,Procurement Operations,APAC,Employee,Active
+1040,U01040,Riya Verma,Finance,Accounts Payable,APAC,Employee,Active
+1041,U01041,Aarav Joshi,GBS,Business Operations,NORAM,Employee,Active
+1042,U01042,Anika Joshi,Procurement,Sourcing,APAC,Employee,Active
+1043,U01043,Rohan Joshi,IT,Security Administration,APAC,Employee,Active
+1044,U01044,Priya Joshi,Sales,Sales Operations,NORAM,Employee,Active
+1045,U01045,Arjun Joshi,Sales,Commercial,LATAM,Employee,Active
+1046,U01046,Neha Joshi,Procurement,Procurement Operations,APAC,Employee,Active
+1047,U01047,Vikram Joshi,Sales,Sales Operations,APAC,Employee,Active
+1048,U01048,Ishita Joshi,HR,HR Operations,LATAM,Employee,Active
+1049,U01049,Karan Joshi,Procurement,Purchasing,EMEA,Employee,Active
+1050,U01050,Meera Joshi,Sales,Customer Service,APAC,Employee,Inactive
+1051,U01051,Rahul Joshi,Procurement,Vendor Management,APAC,Employee,Active
+1052,U01052,Sneha Joshi,Procurement,Procurement Operations,LATAM,Employee,Active
+1053,U01053,Aditya Joshi,GBS,Master Data,NORAM,Employee,Active
+1054,U01054,Nisha Joshi,HR,Talent Management,APAC,Employee,Active
+1055,U01055,Sanjay Joshi,Procurement,Vendor Management,APAC,Employee,Active
+1056,U01056,Kavya Joshi,GBS,Shared Services,APAC,Employee,Active
+1057,U01057,Amit Joshi,Procurement,Sourcing,LATAM,Employee,Active
+1058,U01058,Pooja Joshi,GBS,Master Data,APAC,Contractor,Active
+1059,U01059,Varun Joshi,Sales,Sales Operations,EMEA,Employee,Active
+1060,U01060,Riya Joshi,IT,IT Operations,EMEA,Employee,Active
+1061,U01061,Aarav Bose,HR,Payroll,APAC,Employee,Inactive
+1062,U01062,Anika Bose,Finance,Accounts Receivable,EMEA,Employee,Active
+1063,U01063,Rohan Bose,IT,Infrastructure,LATAM,Contractor,Active
+1064,U01064,Priya Bose,GBS,Master Data,LATAM,Employee,Active
+1065,U01065,Arjun Bose,Finance,Accounts Payable,EMEA,Employee,Active
+1066,U01066,Neha Bose,GBS,Reporting Services,APAC,Employee,Active
+1067,U01067,Vikram Bose,Sales,Customer Service,NORAM,Employee,Active
+1068,U01068,Ishita Bose,Finance,Treasury,EMEA,Employee,Active
+1069,U01069,Karan Bose,Sales,Customer Service,EMEA,Employee,Active
+1070,U01070,Meera Bose,IT,Infrastructure,EMEA,Contractor,Active
+1071,U01071,Rahul Bose,Finance,Accounts Payable,EMEA,Employee,Active
+1072,U01072,Sneha Bose,IT,Security Administration,APAC,Employee,Active
+1073,U01073,Aditya Bose,Sales,Sales Operations,APAC,Employee,Active
+1074,U01074,Nisha Bose,GBS,Master Data,EMEA,Employee,Active
+1075,U01075,Sanjay Bose,IT,Security Administration,NORAM,Employee,Inactive
+1076,U01076,Kavya Bose,Finance,Accounts Receivable,APAC,Contractor,Active
+1077,U01077,Amit Bose,Procurement,Vendor Management,EMEA,Employee,Active
+1078,U01078,Pooja Bose,IT,Application Support,APAC,Employee,Active
+1079,U01079,Varun Bose,IT,Security Administration,APAC,Employee,Active
+1080,U01080,Riya Bose,Sales,Commercial,EMEA,Employee,Active
+1081,U01081,Aarav Reddy,Sales,Order Management,APAC,Employee,Active
+1082,U01082,Anika Reddy,Finance,Treasury,APAC,Employee,Active
+1083,U01083,Rohan Reddy,HR,Payroll,APAC,Employee,Active
+1084,U01084,Priya Reddy,Sales,Sales Operations,EMEA,Employee,Active
+1085,U01085,Arjun Reddy,Sales,Commercial,APAC,Employee,Active
+1086,U01086,Neha Reddy,Procurement,Purchasing,LATAM,Employee,Active
+1087,U01087,Vikram Reddy,IT,IT Operations,LATAM,Employee,Active
+1088,U01088,Ishita Reddy,Sales,Sales Operations,APAC,Employee,Active
+1089,U01089,Karan Reddy,Procurement,Procurement Operations,LATAM,Employee,Active
+1090,U01090,Meera Reddy,Procurement,Vendor Management,APAC,Contractor,Active
+1091,U01091,Rahul Reddy,HR,Payroll,APAC,Employee,Active
+1092,U01092,Sneha Reddy,Finance,Treasury,EMEA,Employee,Active
+1093,U01093,Aditya Reddy,Procurement,Sourcing,NORAM,Employee,Active
+1094,U01094,Nisha Reddy,Sales,Commercial,EMEA,Employee,Active
+1095,U01095,Sanjay Reddy,GBS,Reporting Services,APAC,Employee,Active
+1096,U01096,Kavya Reddy,IT,Application Support,APAC,Employee,Active
+1097,U01097,Amit Reddy,IT,Application Support,EMEA,Employee,Active
+1098,U01098,Pooja Reddy,IT,Application Support,EMEA,Employee,Active
+1099,U01099,Varun Reddy,Finance,Accounts Payable,LATAM,Employee,Active
+1100,U01100,Riya Reddy,HR,Talent Management,NORAM,Employee,Active
+1101,U01101,Aarav Khan,Procurement,Purchasing,APAC,Service Account,Active
+1102,U01102,Anika Khan,Procurement,Vendor Management,LATAM,Employee,Active
+1103,U01103,Rohan Khan,IT,Security Administration,APAC,Employee,Active
+1104,U01104,Priya Khan,Procurement,Sourcing,APAC,Employee,Active
+1105,U01105,Arjun Khan,Finance,Financial Reporting,EMEA,Employee,Active
+1106,U01106,Neha Khan,GBS,Reporting Services,EMEA,Employee,Active
+1107,U01107,Vikram Khan,Procurement,Procurement Operations,LATAM,Contractor,Active
+1108,U01108,Ishita Khan,Procurement,Procurement Operations,APAC,Employee,Active
+1109,U01109,Karan Khan,HR,Talent Management,LATAM,Employee,Inactive
+1110,U01110,Meera Khan,GBS,Shared Services,NORAM,Employee,Active
+1111,U01111,Rahul Khan,Procurement,Procurement Operations,EMEA,Employee,Active
+1112,U01112,Sneha Khan,Procurement,Sourcing,NORAM,Employee,Active
+1113,U01113,Aditya Khan,Finance,Financial Reporting,NORAM,Employee,Active
+1114,U01114,Nisha Khan,Sales,Sales Operations,APAC,Employee,Active
+1115,U01115,Sanjay Khan,IT,IT Operations,APAC,Employee,Active
+1116,U01116,Kavya Khan,HR,HR Operations,EMEA,Contractor,Active
+1117,U01117,Amit Khan,GBS,Master Data,EMEA,Employee,Active
+1118,U01118,Pooja Khan,Procurement,Vendor Management,EMEA,Employee,Inactive
+1119,U01119,Varun Khan,GBS,Shared Services,EMEA,Employee,Active
+1120,U01120,Riya Khan,GBS,Shared Services,APAC,Contractor,Active
+1121,U01121,Aarav Chatterjee,Procurement,Sourcing,APAC,Employee,Active
+1122,U01122,Anika Chatterjee,GBS,Shared Services,APAC,Employee,Active
+1123,U01123,Rohan Chatterjee,GBS,Business Operations,EMEA,Employee,Active
+1124,U01124,Priya Chatterjee,GBS,Shared Services,APAC,Employee,Active
+1125,U01125,Arjun Chatterjee,HR,Talent Management,APAC,Employee,Active
+1126,U01126,Neha Chatterjee,Finance,Accounts Payable,LATAM,Employee,Active
+1127,U01127,Vikram Chatterjee,Procurement,Purchasing,EMEA,Employee,Active
+1128,U01128,Ishita Chatterjee,Sales,Sales Operations,EMEA,Service Account,Active
+1129,U01129,Karan Chatterjee,Sales,Sales Operations,APAC,Employee,Active
+1130,U01130,Meera Chatterjee,HR,HR Operations,EMEA,Employee,Active
+1131,U01131,Rahul Chatterjee,Sales,Customer Service,EMEA,Contractor,Active
+1132,U01132,Sneha Chatterjee,Sales,Commercial,NORAM,Employee,Active
+1133,U01133,Aditya Chatterjee,GBS,Shared Services,NORAM,Employee,Active
+1134,U01134,Nisha Chatterjee,GBS,Reporting Services,EMEA,Employee,Inactive
+1135,U01135,Sanjay Chatterjee,HR,Talent Management,EMEA,Employee,Active
+1136,U01136,Kavya Chatterjee,Sales,Commercial,NORAM,Employee,Active
+1137,U01137,Amit Chatterjee,IT,Application Support,APAC,Contractor,Active
+1138,U01138,Pooja Chatterjee,IT,IT Operations,APAC,Employee,Active
+1139,U01139,Varun Chatterjee,Procurement,Sourcing,EMEA,Employee,Inactive
+1140,U01140,Riya Chatterjee,Sales,Sales Operations,APAC,Contractor,Active
+1141,U01141,Aarav Sen,Procurement,Procurement Operations,APAC,Employee,Active
+1142,U01142,Anika Sen,Sales,Order Management,APAC,Employee,Active
+1143,U01143,Rohan Sen,GBS,Reporting Services,EMEA,Employee,Active
+1144,U01144,Priya Sen,Procurement,Vendor Management,NORAM,Contractor,Active
+1145,U01145,Arjun Sen,GBS,Business Operations,NORAM,Employee,Active
+1146,U01146,Neha Sen,Procurement,Purchasing,APAC,Employee,Active
+1147,U01147,Vikram Sen,HR,Payroll,APAC,Service Account,Active
+1148,U01148,Ishita Sen,Finance,Accounts Receivable,EMEA,Employee,Active
+1149,U01149,Karan Sen,Procurement,Purchasing,APAC,Employee,Active
+1150,U01150,Meera Sen,HR,Talent Management,NORAM,Employee,Active
+1151,U01151,Rahul Sen,Finance,Accounts Payable,APAC,Employee,Active
+1152,U01152,Sneha Sen,IT,Security Administration,EMEA,Employee,Active
+1153,U01153,Aditya Sen,Finance,Accounts Payable,APAC,Employee,Active
+1154,U01154,Nisha Sen,HR,HR Systems,EMEA,Employee,Active
+1155,U01155,Sanjay Sen,IT,Security Administration,LATAM,Employee,Active
+1156,U01156,Kavya Sen,IT,IT Operations,EMEA,Employee,Active
+1157,U01157,Amit Sen,Finance,Accounts Receivable,APAC,Employee,Inactive
+1158,U01158,Pooja Sen,GBS,Master Data,APAC,Employee,Active
+1159,U01159,Varun Sen,Procurement,Sourcing,LATAM,Employee,Active
+1160,U01160,Riya Sen,Procurement,Procurement Operations,APAC,Employee,Active
+1161,U01161,Aarav Malhotra,Finance,Accounts Receivable,APAC,Employee,Active
+1162,U01162,Anika Malhotra,Sales,Customer Service,APAC,Employee,Active
+1163,U01163,Rohan Malhotra,Procurement,Procurement Operations,LATAM,Employee,Active
+1164,U01164,Priya Malhotra,IT,IT Operations,EMEA,Employee,Active
+1165,U01165,Arjun Malhotra,Sales,Customer Service,APAC,Employee,Active
+1166,U01166,Neha Malhotra,Procurement,Vendor Management,EMEA,Employee,Active
+1167,U01167,Vikram Malhotra,Procurement,Vendor Management,NORAM,Employee,Inactive
+1168,U01168,Ishita Malhotra,Procurement,Sourcing,NORAM,Employee,Active
+1169,U01169,Karan Malhotra,HR,Payroll,EMEA,Employee,Active
+1170,U01170,Meera Malhotra,HR,Payroll,APAC,Contractor,Active
+1171,U01171,Rahul Malhotra,Finance,Financial Reporting,LATAM,Contractor,Active
+1172,U01172,Sneha Malhotra,GBS,Master Data,LATAM,Employee,Active
+1173,U01173,Aditya Malhotra,Sales,Commercial,EMEA,Employee,Active
+1174,U01174,Nisha Malhotra,IT,IT Operations,LATAM,Employee,Active
+1175,U01175,Sanjay Malhotra,Procurement,Procurement Operations,APAC,Employee,Active
+1176,U01176,Kavya Malhotra,Procurement,Sourcing,EMEA,Employee,Active
+1177,U01177,Amit Malhotra,GBS,Master Data,NORAM,Employee,Active
+1178,U01178,Pooja Malhotra,Procurement,Vendor Management,APAC,Employee,Active
+1179,U01179,Varun Malhotra,HR,HR Systems,APAC,Employee,Active
+1180,U01180,Riya Malhotra,GBS,Reporting Services,APAC,Employee,Active
+1181,U01181,Aarav Sinha,Sales,Commercial,APAC,Employee,Active
+1182,U01182,Anika Sinha,Sales,Sales Operations,APAC,Contractor,Active
+1183,U01183,Rohan Sinha,Procurement,Purchasing,EMEA,Contractor,Inactive
+1184,U01184,Priya Sinha,Finance,Accounts Payable,APAC,Employee,Active
+1185,U01185,Arjun Sinha,Sales,Order Management,NORAM,Employee,Active
+1186,U01186,Neha Sinha,Finance,Accounts Receivable,APAC,Employee,Active
+1187,U01187,Vikram Sinha,IT,Application Support,APAC,Employee,Inactive
+1188,U01188,Ishita Sinha,GBS,Business Operations,EMEA,Employee,Inactive
+1189,U01189,Karan Sinha,IT,IT Operations,NORAM,Employee,Active
+1190,U01190,Meera Sinha,IT,Infrastructure,NORAM,Employee,Active
+1191,U01191,Rahul Sinha,GBS,Reporting Services,EMEA,Employee,Active
+1192,U01192,Sneha Sinha,HR,Talent Management,APAC,Employee,Active
+1193,U01193,Aditya Sinha,GBS,Master Data,EMEA,Employee,Active
+1194,U01194,Nisha Sinha,Procurement,Procurement Operations,APAC,Service Account,Inactive
+1195,U01195,Sanjay Sinha,HR,HR Operations,NORAM,Employee,Active
+1196,U01196,Kavya Sinha,Procurement,Vendor Management,NORAM,Employee,Active
+1197,U01197,Amit Sinha,IT,IT Operations,APAC,Employee,Active
+1198,U01198,Pooja Sinha,Finance,Accounts Payable,EMEA,Contractor,Active
+1199,U01199,Varun Sinha,Sales,Commercial,EMEA,Employee,Active
+1200,U01200,Riya Sinha,Procurement,Procurement Operations,APAC,Employee,Inactive
+1201,U01201,Aarav Sharma,IT,Application Support,EMEA,Employee,Active
+1202,U01202,Anika Sharma,IT,Security Administration,APAC,Employee,Active
+1203,U01203,Rohan Sharma,GBS,Business Operations,NORAM,Employee,Active
+1204,U01204,Priya Sharma,IT,Application Support,EMEA,Employee,Active
+1205,U01205,Arjun Sharma,Finance,Accounts Payable,EMEA,Employee,Active
+1206,U01206,Neha Sharma,Finance,Accounts Receivable,LATAM,Employee,Active
+1207,U01207,Vikram Sharma,GBS,Reporting Services,EMEA,Employee,Active
+1208,U01208,Ishita Sharma,IT,IT Operations,EMEA,Employee,Active
+1209,U01209,Karan Sharma,GBS,Master Data,LATAM,Employee,Active
+1210,U01210,Meera Sharma,GBS,Shared Services,NORAM,Employee,Active
+1211,U01211,Rahul Sharma,Procurement,Sourcing,APAC,Employee,Active
+1212,U01212,Sneha Sharma,Finance,Treasury,EMEA,Employee,Active
+1213,U01213,Aditya Sharma,GBS,Reporting Services,APAC,Employee,Active
+1214,U01214,Nisha Sharma,Finance,Financial Reporting,NORAM,Employee,Active
+1215,U01215,Sanjay Sharma,IT,Application Support,NORAM,Employee,Active
+1216,U01216,Kavya Sharma,Sales,Order Management,APAC,Employee,Inactive
+1217,U01217,Amit Sharma,GBS,Business Operations,NORAM,Employee,Active
+1218,U01218,Pooja Sharma,Sales,Order Management,EMEA,Service Account,Inactive
+1219,U01219,Varun Sharma,Finance,Accounts Receivable,APAC,Contractor,Active
+1220,U01220,Riya Sharma,GBS,Master Data,APAC,Employee,Active
+1221,U01221,Aarav Patel,Procurement,Procurement Operations,APAC,Employee,Active
+1222,U01222,Anika Patel,Procurement,Vendor Management,LATAM,Employee,Inactive
+1223,U01223,Rohan Patel,Procurement,Procurement Operations,EMEA,Employee,Active
+1224,U01224,Priya Patel,GBS,Shared Services,APAC,Employee,Active
+1225,U01225,Arjun Patel,IT,Security Administration,APAC,Employee,Active
+1226,U01226,Neha Patel,Procurement,Vendor Management,APAC,Service Account,Active
+1227,U01227,Vikram Patel,Finance,Accounts Receivable,EMEA,Employee,Active
+1228,U01228,Ishita Patel,Sales,Order Management,NORAM,Employee,Active
+1229,U01229,Karan Patel,Procurement,Sourcing,LATAM,Employee,Active
+1230,U01230,Meera Patel,GBS,Shared Services,EMEA,Employee,Active
+1231,U01231,Rahul Patel,IT,Application Support,EMEA,Employee,Inactive
+1232,U01232,Sneha Patel,GBS,Master Data,EMEA,Employee,Active
+1233,U01233,Aditya Patel,HR,Talent Management,LATAM,Employee,Active
+1234,U01234,Nisha Patel,Sales,Sales Operations,APAC,Employee,Active
+1235,U01235,Sanjay Patel,Finance,Accounts Payable,LATAM,Employee,Active
+1236,U01236,Kavya Patel,IT,Infrastructure,APAC,Contractor,Active
+1237,U01237,Amit Patel,Finance,Accounts Receivable,LATAM,Employee,Active
+1238,U01238,Pooja Patel,Finance,Accounts Payable,APAC,Contractor,Active
+1239,U01239,Varun Patel,Finance,Financial Reporting,LATAM,Employee,Active
+1240,U01240,Riya Patel,GBS,Reporting Services,NORAM,Employee,Active
+1241,U01241,Aarav Singh,IT,Infrastructure,APAC,Employee,Active
+1242,U01242,Anika Singh,GBS,Master Data,EMEA,Employee,Active
+1243,U01243,Rohan Singh,HR,Payroll,NORAM,Employee,Inactive
+1244,U01244,Priya Singh,HR,Payroll,EMEA,Contractor,Active
+1245,U01245,Arjun Singh,HR,Talent Management,EMEA,Employee,Active
+1246,U01246,Neha Singh,GBS,Master Data,EMEA,Employee,Inactive
+1247,U01247,Vikram Singh,HR,Talent Management,NORAM,Employee,Active
+1248,U01248,Ishita Singh,Procurement,Purchasing,NORAM,Employee,Active
+1249,U01249,Karan Singh,Sales,Order Management,EMEA,Employee,Active
+1250,U01250,Meera Singh,Procurement,Procurement Operations,EMEA,Employee,Inactive
+1251,U01251,Rahul Singh,HR,Payroll,NORAM,Employee,Active
+1252,U01252,Sneha Singh,Sales,Customer Service,APAC,Employee,Inactive
+1253,U01253,Aditya Singh,Finance,Accounts Receivable,APAC,Employee,Inactive
+1254,U01254,Nisha Singh,HR,Talent Management,EMEA,Employee,Active
+1255,U01255,Sanjay Singh,Procurement,Purchasing,APAC,Employee,Active
+1256,U01256,Kavya Singh,Sales,Customer Service,APAC,Contractor,Active
+1257,U01257,Amit Singh,HR,HR Operations,APAC,Employee,Active
+1258,U01258,Pooja Singh,IT,Application Support,APAC,Employee,Active
+1259,U01259,Varun Singh,Finance,Accounts Receivable,APAC,Employee,Active
+1260,U01260,Riya Singh,Procurement,Vendor Management,LATAM,Employee,Active
+1261,U01261,Aarav Das,HR,Talent Management,APAC,Employee,Active
+1262,U01262,Anika Das,GBS,Business Operations,APAC,Employee,Active
+1263,U01263,Rohan Das,Procurement,Procurement Operations,APAC,Employee,Active
+1264,U01264,Priya Das,Sales,Commercial,APAC,Employee,Active
+1265,U01265,Arjun Das,IT,Security Administration,EMEA,Employee,Active
+1266,U01266,Neha Das,GBS,Business Operations,NORAM,Employee,Active
+1267,U01267,Vikram Das,GBS,Reporting Services,APAC,Employee,Active
+1268,U01268,Ishita Das,Finance,Treasury,NORAM,Employee,Active
+1269,U01269,Karan Das,GBS,Master Data,APAC,Employee,Active
+1270,U01270,Meera Das,HR,HR Systems,LATAM,Employee,Active
+1271,U01271,Rahul Das,Finance,Financial Reporting,LATAM,Employee,Active
+1272,U01272,Sneha Das,IT,IT Operations,APAC,Employee,Active
+1273,U01273,Aditya Das,GBS,Business Operations,NORAM,Employee,Active
+1274,U01274,Nisha Das,Procurement,Procurement Operations,APAC,Contractor,Active
+1275,U01275,Sanjay Das,GBS,Business Operations,LATAM,Employee,Active
+1276,U01276,Kavya Das,GBS,Shared Services,EMEA,Employee,Active
+1277,U01277,Amit Das,IT,Application Support,NORAM,Employee,Active
+1278,U01278,Pooja Das,GBS,Business Operations,LATAM,Service Account,Inactive
+1279,U01279,Varun Das,Sales,Sales Operations,NORAM,Employee,Active
+1280,U01280,Riya Das,Finance,Treasury,EMEA,Employee,Inactive
+1281,U01281,Aarav Roy,Finance,Accounts Payable,NORAM,Contractor,Active
+1282,U01282,Anika Roy,Sales,Commercial,APAC,Employee,Active
+1283,U01283,Rohan Roy,IT,IT Operations,LATAM,Employee,Active
+1284,U01284,Priya Roy,Procurement,Procurement Operations,APAC,Employee,Active
+1285,U01285,Arjun Roy,IT,IT Operations,LATAM,Service Account,Active
+1286,U01286,Neha Roy,GBS,Shared Services,APAC,Employee,Active
+1287,U01287,Vikram Roy,GBS,Business Operations,EMEA,Employee,Active
+1288,U01288,Ishita Roy,Finance,Treasury,APAC,Employee,Active
+1289,U01289,Karan Roy,Sales,Customer Service,NORAM,Employee,Active
+1290,U01290,Meera Roy,HR,HR Systems,NORAM,Employee,Active
+1291,U01291,Rahul Roy,IT,IT Operations,NORAM,Employee,Active
+1292,U01292,Sneha Roy,Sales,Customer Service,APAC,Employee,Active
+1293,U01293,Aditya Roy,Sales,Customer Service,APAC,Employee,Active
+1294,U01294,Nisha Roy,Sales,Commercial,NORAM,Employee,Active
+1295,U01295,Sanjay Roy,Finance,Accounts Receivable,APAC,Employee,Active
+1296,U01296,Kavya Roy,Sales,Sales Operations,NORAM,Employee,Active
+1297,U01297,Amit Roy,Procurement,Purchasing,EMEA,Employee,Active
+1298,U01298,Pooja Roy,Sales,Customer Service,EMEA,Employee,Active
+1299,U01299,Varun Roy,Procurement,Vendor Management,EMEA,Employee,Active
+1300,U01300,Riya Roy,GBS,Master Data,APAC,Employee,Active
+1301,U01301,Aarav Gupta,GBS,Business Operations,APAC,Employee,Inactive
+1302,U01302,Anika Gupta,GBS,Business Operations,EMEA,Employee,Active
+1303,U01303,Rohan Gupta,Procurement,Purchasing,APAC,Employee,Active
+1304,U01304,Priya Gupta,IT,Infrastructure,APAC,Employee,Active
+1305,U01305,Arjun Gupta,Finance,Accounts Payable,EMEA,Employee,Active
+1306,U01306,Neha Gupta,Finance,Accounts Payable,APAC,Employee,Active
+1307,U01307,Vikram Gupta,Finance,Accounts Payable,APAC,Employee,Active
+1308,U01308,Ishita Gupta,IT,Infrastructure,LATAM,Employee,Inactive
+1309,U01309,Karan Gupta,Procurement,Purchasing,NORAM,Employee,Active
+1310,U01310,Meera Gupta,HR,HR Operations,EMEA,Employee,Inactive
+1311,U01311,Rahul Gupta,IT,Application Support,NORAM,Employee,Inactive
+1312,U01312,Sneha Gupta,GBS,Shared Services,APAC,Employee,Active
+1313,U01313,Aditya Gupta,Sales,Sales Operations,EMEA,Employee,Active
+1314,U01314,Nisha Gupta,Finance,Treasury,LATAM,Employee,Active
+1315,U01315,Sanjay Gupta,Procurement,Vendor Management,EMEA,Employee,Active
+1316,U01316,Kavya Gupta,GBS,Master Data,APAC,Employee,Inactive
+1317,U01317,Amit Gupta,IT,IT Operations,EMEA,Employee,Active
+1318,U01318,Pooja Gupta,GBS,Master Data,LATAM,Employee,Active
+1319,U01319,Varun Gupta,Procurement,Procurement Operations,APAC,Employee,Active
+1320,U01320,Riya Gupta,Procurement,Purchasing,EMEA,Employee,Active
+1321,U01321,Aarav Mehta,IT,Infrastructure,APAC,Employee,Inactive
+1322,U01322,Anika Mehta,Procurement,Vendor Management,APAC,Employee,Active
+1323,U01323,Rohan Mehta,IT,IT Operations,EMEA,Employee,Inactive
+1324,U01324,Priya Mehta,Sales,Sales Operations,EMEA,Employee,Inactive
+1325,U01325,Arjun Mehta,IT,Application Support,APAC,Employee,Active
+1326,U01326,Neha Mehta,Procurement,Purchasing,NORAM,Employee,Active
+1327,U01327,Vikram Mehta,Procurement,Purchasing,NORAM,Employee,Inactive
+1328,U01328,Ishita Mehta,Sales,Customer Service,LATAM,Service Account,Active
+1329,U01329,Karan Mehta,IT,Application Support,APAC,Employee,Active
+1330,U01330,Meera Mehta,Sales,Sales Operations,NORAM,Employee,Active
+1331,U01331,Rahul Mehta,Procurement,Vendor Management,APAC,Contractor,Active
+1332,U01332,Sneha Mehta,Finance,Accounts Payable,NORAM,Service Account,Active
+1333,U01333,Aditya Mehta,HR,HR Operations,EMEA,Employee,Active
+1334,U01334,Nisha Mehta,GBS,Master Data,EMEA,Employee,Active
+1335,U01335,Sanjay Mehta,Finance,Financial Reporting,EMEA,Employee,Active
+1336,U01336,Kavya Mehta,IT,Security Administration,LATAM,Employee,Active
+1337,U01337,Amit Mehta,Finance,Accounts Payable,APAC,Employee,Active
+1338,U01338,Pooja Mehta,GBS,Reporting Services,NORAM,Contractor,Active
+1339,U01339,Varun Mehta,GBS,Reporting Services,LATAM,Employee,Active
+1340,U01340,Riya Mehta,Finance,Accounts Payable,APAC,Contractor,Active
+1341,U01341,Aarav Nair,Procurement,Sourcing,APAC,Employee,Active
+1342,U01342,Anika Nair,GBS,Master Data,LATAM,Employee,Active
+1343,U01343,Rohan Nair,Sales,Sales Operations,APAC,Employee,Active
+1344,U01344,Priya Nair,Sales,Sales Operations,EMEA,Employee,Active
+1345,U01345,Arjun Nair,Procurement,Purchasing,EMEA,Employee,Active
+1346,U01346,Neha Nair,Procurement,Vendor Management,APAC,Employee,Active
+1347,U01347,Vikram Nair,HR,HR Operations,LATAM,Employee,Active
+1348,U01348,Ishita Nair,Finance,Treasury,EMEA,Employee,Active
+1349,U01349,Karan Nair,Sales,Commercial,APAC,Employee,Active
+1350,U01350,Meera Nair,Finance,Accounts Payable,APAC,Employee,Active
+1351,U01351,Rahul Nair,Sales,Customer Service,APAC,Employee,Active
+1352,U01352,Sneha Nair,Finance,Financial Reporting,APAC,Employee,Active
+1353,U01353,Aditya Nair,Finance,Financial Reporting,EMEA,Employee,Active
+1354,U01354,Nisha Nair,IT,IT Operations,APAC,Employee,Active
+1355,U01355,Sanjay Nair,HR,HR Operations,APAC,Employee,Active
+1356,U01356,Kavya Nair,HR,HR Systems,APAC,Employee,Active
+1357,U01357,Amit Nair,GBS,Master Data,EMEA,Service Account,Active
+1358,U01358,Pooja Nair,Finance,Treasury,APAC,Employee,Active
+1359,U01359,Varun Nair,Sales,Sales Operations,LATAM,Employee,Active
+1360,U01360,Riya Nair,Sales,Sales Operations,APAC,Contractor,Inactive
+1361,U01361,Aarav Iyer,Finance,Financial Reporting,NORAM,Employee,Inactive
+1362,U01362,Anika Iyer,Procurement,Purchasing,APAC,Employee,Active
+1363,U01363,Rohan Iyer,Finance,Accounts Payable,EMEA,Employee,Active
+1364,U01364,Priya Iyer,Procurement,Purchasing,APAC,Contractor,Active
+1365,U01365,Arjun Iyer,Finance,Accounts Payable,APAC,Employee,Active
+1366,U01366,Neha Iyer,HR,Payroll,EMEA,Employee,Active
+1367,U01367,Vikram Iyer,Procurement,Vendor Management,NORAM,Employee,Active
+1368,U01368,Ishita Iyer,Procurement,Procurement Operations,APAC,Employee,Active
+1369,U01369,Karan Iyer,Sales,Customer Service,APAC,Contractor,Active
+1370,U01370,Meera Iyer,HR,HR Operations,APAC,Employee,Active
+1371,U01371,Rahul Iyer,IT,Infrastructure,EMEA,Employee,Active
+1372,U01372,Sneha Iyer,GBS,Reporting Services,EMEA,Employee,Active
+1373,U01373,Aditya Iyer,Sales,Order Management,NORAM,Employee,Active
+1374,U01374,Nisha Iyer,Sales,Commercial,APAC,Employee,Active
+1375,U01375,Sanjay Iyer,IT,Infrastructure,NORAM,Employee,Active
+1376,U01376,Kavya Iyer,HR,HR Operations,EMEA,Employee,Active
+1377,U01377,Amit Iyer,Finance,Financial Reporting,APAC,Employee,Active
+1378,U01378,Pooja Iyer,Finance,Accounts Receivable,EMEA,Service Account,Active
+1379,U01379,Varun Iyer,Sales,Sales Operations,APAC,Employee,Active
+1380,U01380,Riya Iyer,Sales,Customer Service,APAC,Employee,Active
+1381,U01381,Aarav Kapoor,Finance,Accounts Receivable,EMEA,Employee,Active
+1382,U01382,Anika Kapoor,Finance,Financial Reporting,EMEA,Employee,Active
+1383,U01383,Rohan Kapoor,Sales,Sales Operations,APAC,Employee,Active
+1384,U01384,Priya Kapoor,Sales,Sales Operations,APAC,Employee,Active
+1385,U01385,Arjun Kapoor,Sales,Sales Operations,LATAM,Employee,Active
+1386,U01386,Neha Kapoor,Procurement,Purchasing,APAC,Employee,Active
+1387,U01387,Vikram Kapoor,IT,Security Administration,EMEA,Employee,Active
+1388,U01388,Ishita Kapoor,Finance,Treasury,NORAM,Employee,Active
+1389,U01389,Karan Kapoor,GBS,Reporting Services,EMEA,Employee,Active
+1390,U01390,Meera Kapoor,Procurement,Procurement Operations,EMEA,Employee,Active
+1391,U01391,Rahul Kapoor,GBS,Business Operations,APAC,Employee,Active
+1392,U01392,Sneha Kapoor,GBS,Reporting Services,APAC,Employee,Active
+1393,U01393,Aditya Kapoor,Sales,Sales Operations,APAC,Employee,Inactive
+1394,U01394,Nisha Kapoor,Finance,Treasury,EMEA,Employee,Active
+1395,U01395,Sanjay Kapoor,Finance,Accounts Payable,NORAM,Employee,Active
+1396,U01396,Kavya Kapoor,IT,Security Administration,APAC,Employee,Active
+1397,U01397,Amit Kapoor,Sales,Sales Operations,NORAM,Employee,Active
+1398,U01398,Pooja Kapoor,GBS,Shared Services,APAC,Contractor,Active
+1399,U01399,Varun Kapoor,GBS,Business Operations,LATAM,Employee,Active
+1400,U01400,Riya Kapoor,GBS,Business Operations,EMEA,Employee,Active
+1401,U01401,Aarav Mishra,Procurement,Procurement Operations,EMEA,Employee,Active
+1402,U01402,Anika Mishra,Finance,Accounts Receivable,NORAM,Employee,Active
+1403,U01403,Rohan Mishra,IT,IT Operations,NORAM,Contractor,Active
+1404,U01404,Priya Mishra,IT,Security Administration,EMEA,Employee,Active
+1405,U01405,Arjun Mishra,Sales,Customer Service,APAC,Employee,Active
+1406,U01406,Neha Mishra,Finance,Financial Reporting,EMEA,Employee,Active
+1407,U01407,Vikram Mishra,HR,Payroll,APAC,Employee,Active
+1408,U01408,Ishita Mishra,Sales,Sales Operations,EMEA,Employee,Active
+1409,U01409,Karan Mishra,Sales,Customer Service,APAC,Employee,Active
+1410,U01410,Meera Mishra,GBS,Master Data,LATAM,Employee,Active
+1411,U01411,Rahul Mishra,HR,HR Systems,NORAM,Employee,Active
+1412,U01412,Sneha Mishra,IT,IT Operations,LATAM,Employee,Active
+1413,U01413,Aditya Mishra,Procurement,Procurement Operations,APAC,Contractor,Active
+1414,U01414,Nisha Mishra,Sales,Sales Operations,APAC,Employee,Active
+1415,U01415,Sanjay Mishra,Finance,Treasury,APAC,Employee,Active
+1416,U01416,Kavya Mishra,HR,HR Systems,NORAM,Contractor,Inactive
+1417,U01417,Amit Mishra,GBS,Master Data,APAC,Employee,Active
+1418,U01418,Pooja Mishra,GBS,Reporting Services,APAC,Employee,Active
+1419,U01419,Varun Mishra,GBS,Master Data,NORAM,Employee,Active
+1420,U01420,Riya Mishra,Procurement,Vendor Management,APAC,Service Account,Active
+1421,U01421,Aarav Verma,Finance,Financial Reporting,APAC,Employee,Active
+1422,U01422,Anika Verma,IT,Infrastructure,NORAM,Employee,Active
+1423,U01423,Rohan Verma,GBS,Business Operations,APAC,Employee,Active
+1424,U01424,Priya Verma,Finance,Accounts Payable,NORAM,Service Account,Active
+1425,U01425,Arjun Verma,HR,HR Operations,APAC,Employee,Active
+1426,U01426,Neha Verma,GBS,Shared Services,EMEA,Employee,Active
+1427,U01427,Vikram Verma,Procurement,Sourcing,NORAM,Employee,Active
+1428,U01428,Ishita Verma,IT,IT Operations,NORAM,Employee,Inactive
+1429,U01429,Karan Verma,Finance,Accounts Payable,EMEA,Employee,Active
+1430,U01430,Meera Verma,Sales,Sales Operations,APAC,Contractor,Active
+1431,U01431,Rahul Verma,Sales,Order Management,APAC,Employee,Active
+1432,U01432,Sneha Verma,Sales,Customer Service,LATAM,Employee,Active
+1433,U01433,Aditya Verma,Procurement,Sourcing,NORAM,Employee,Active
+1434,U01434,Nisha Verma,IT,Security Administration,APAC,Employee,Active
+1435,U01435,Sanjay Verma,Procurement,Purchasing,NORAM,Employee,Active
+1436,U01436,Kavya Verma,Sales,Customer Service,NORAM,Employee,Active
+1437,U01437,Amit Verma,IT,Infrastructure,EMEA,Employee,Active
+1438,U01438,Pooja Verma,IT,Application Support,LATAM,Contractor,Active
+1439,U01439,Varun Verma,HR,HR Systems,EMEA,Employee,Inactive
+1440,U01440,Riya Verma,IT,IT Operations,EMEA,Employee,Active
+1441,U01441,Aarav Joshi,IT,Security Administration,LATAM,Employee,Active
+1442,U01442,Anika Joshi,GBS,Master Data,APAC,Employee,Inactive
+1443,U01443,Rohan Joshi,GBS,Master Data,NORAM,Employee,Active
+1444,U01444,Priya Joshi,GBS,Master Data,APAC,Employee,Active
+1445,U01445,Arjun Joshi,Procurement,Sourcing,LATAM,Employee,Active
+1446,U01446,Neha Joshi,GBS,Reporting Services,NORAM,Employee,Active
+1447,U01447,Vikram Joshi,Finance,Financial Reporting,EMEA,Employee,Active
+1448,U01448,Ishita Joshi,Finance,Financial Reporting,NORAM,Employee,Active
+1449,U01449,Karan Joshi,IT,IT Operations,APAC,Employee,Active
+1450,U01450,Meera Joshi,Sales,Customer Service,APAC,Employee,Active
+1451,U01451,Rahul Joshi,GBS,Shared Services,APAC,Employee,Active
+1452,U01452,Sneha Joshi,Procurement,Purchasing,LATAM,Employee,Inactive
+1453,U01453,Aditya Joshi,Sales,Customer Service,APAC,Employee,Active
+1454,U01454,Nisha Joshi,IT,Security Administration,LATAM,Employee,Active
+1455,U01455,Sanjay Joshi,Sales,Customer Service,NORAM,Employee,Active
+1456,U01456,Kavya Joshi,IT,Application Support,APAC,Contractor,Active
+1457,U01457,Amit Joshi,GBS,Business Operations,APAC,Employee,Active
+1458,U01458,Pooja Joshi,Finance,Accounts Payable,LATAM,Employee,Active
+1459,U01459,Varun Joshi,Procurement,Sourcing,LATAM,Employee,Active
+1460,U01460,Riya Joshi,HR,HR Operations,EMEA,Employee,Active
+1461,U01461,Aarav Bose,IT,Security Administration,EMEA,Employee,Active
+1462,U01462,Anika Bose,HR,Talent Management,EMEA,Employee,Active
+1463,U01463,Rohan Bose,GBS,Master Data,EMEA,Employee,Active
+1464,U01464,Priya Bose,Sales,Commercial,APAC,Employee,Active
+1465,U01465,Arjun Bose,GBS,Master Data,APAC,Employee,Active
+1466,U01466,Neha Bose,GBS,Reporting Services,LATAM,Employee,Active
+1467,U01467,Vikram Bose,Procurement,Purchasing,EMEA,Employee,Active
+1468,U01468,Ishita Bose,Procurement,Sourcing,APAC,Employee,Active
+1469,U01469,Karan Bose,GBS,Shared Services,APAC,Employee,Active
+1470,U01470,Meera Bose,Procurement,Sourcing,EMEA,Employee,Active
+1471,U01471,Rahul Bose,Finance,Accounts Receivable,LATAM,Employee,Active
+1472,U01472,Sneha Bose,GBS,Master Data,APAC,Employee,Active
+1473,U01473,Aditya Bose,Finance,Accounts Payable,EMEA,Employee,Active
+1474,U01474,Nisha Bose,IT,IT Operations,NORAM,Employee,Active
+1475,U01475,Sanjay Bose,HR,HR Operations,APAC,Employee,Active
+1476,U01476,Kavya Bose,IT,IT Operations,EMEA,Employee,Active
+1477,U01477,Amit Bose,Procurement,Vendor Management,EMEA,Employee,Inactive
+1478,U01478,Pooja Bose,Finance,Accounts Receivable,LATAM,Employee,Active
+1479,U01479,Varun Bose,GBS,Reporting Services,EMEA,Employee,Active
+1480,U01480,Riya Bose,HR,Talent Management,LATAM,Employee,Active
+1481,U01481,Aarav Reddy,Procurement,Vendor Management,APAC,Employee,Active
+1482,U01482,Anika Reddy,IT,IT Operations,NORAM,Employee,Active
+1483,U01483,Rohan Reddy,GBS,Shared Services,APAC,Employee,Active
+1484,U01484,Priya Reddy,IT,Application Support,APAC,Employee,Active
+1485,U01485,Arjun Reddy,Finance,Accounts Payable,NORAM,Contractor,Active
+1486,U01486,Neha Reddy,GBS,Master Data,APAC,Employee,Active
+1487,U01487,Vikram Reddy,GBS,Master Data,EMEA,Employee,Inactive
+1488,U01488,Ishita Reddy,GBS,Reporting Services,NORAM,Employee,Active
+1489,U01489,Karan Reddy,Procurement,Purchasing,NORAM,Employee,Active
+1490,U01490,Meera Reddy,HR,HR Operations,LATAM,Employee,Active
+1491,U01491,Rahul Reddy,Sales,Sales Operations,EMEA,Employee,Active
+1492,U01492,Sneha Reddy,Finance,Accounts Payable,LATAM,Employee,Active
+1493,U01493,Aditya Reddy,HR,Payroll,NORAM,Employee,Active
+1494,U01494,Nisha Reddy,Sales,Commercial,EMEA,Employee,Active
+1495,U01495,Sanjay Reddy,Finance,Accounts Receivable,EMEA,Employee,Active
+1496,U01496,Kavya Reddy,IT,Application Support,EMEA,Employee,Active
+1497,U01497,Amit Reddy,GBS,Shared Services,APAC,Service Account,Inactive
+1498,U01498,Pooja Reddy,HR,HR Systems,NORAM,Employee,Active
+1499,U01499,Varun Reddy,Procurement,Purchasing,APAC,Employee,Active
+1500,U01500,Riya Reddy,HR,HR Operations,EMEA,Employee,Active
+1501,U01501,Aarav Khan,Finance,Accounts Receivable,NORAM,Contractor,Active
+1502,U01502,Anika Khan,Finance,Accounts Receivable,NORAM,Contractor,Active
+1503,U01503,Rohan Khan,Procurement,Procurement Operations,EMEA,Contractor,Active
+1504,U01504,Priya Khan,Procurement,Sourcing,EMEA,Employee,Active
+1505,U01505,Arjun Khan,GBS,Master Data,APAC,Employee,Active
+1506,U01506,Neha Khan,GBS,Master Data,EMEA,Employee,Active
+1507,U01507,Vikram Khan,Sales,Order Management,NORAM,Employee,Active
+1508,U01508,Ishita Khan,HR,Payroll,APAC,Employee,Active
+1509,U01509,Karan Khan,Sales,Customer Service,NORAM,Employee,Active
+1510,U01510,Meera Khan,Procurement,Vendor Management,NORAM,Employee,Active
+1511,U01511,Rahul Khan,HR,Talent Management,APAC,Employee,Active
+1512,U01512,Sneha Khan,Sales,Commercial,NORAM,Employee,Active
+1513,U01513,Aditya Khan,GBS,Master Data,EMEA,Contractor,Active
+1514,U01514,Nisha Khan,IT,IT Operations,APAC,Employee,Active
+1515,U01515,Sanjay Khan,Finance,Financial Reporting,APAC,Employee,Active
+1516,U01516,Kavya Khan,Finance,Financial Reporting,LATAM,Employee,Active
+1517,U01517,Amit Khan,Sales,Sales Operations,EMEA,Employee,Inactive
+1518,U01518,Pooja Khan,GBS,Shared Services,EMEA,Employee,Active
+1519,U01519,Varun Khan,HR,HR Operations,LATAM,Employee,Active
+1520,U01520,Riya Khan,Finance,Accounts Receivable,EMEA,Service Account,Active
+1521,U01521,Aarav Chatterjee,IT,Infrastructure,NORAM,Employee,Active
+1522,U01522,Anika Chatterjee,Finance,Treasury,APAC,Employee,Active
+1523,U01523,Rohan Chatterjee,GBS,Master Data,APAC,Employee,Active
+1524,U01524,Priya Chatterjee,Finance,Treasury,APAC,Employee,Active
+1525,U01525,Arjun Chatterjee,Procurement,Sourcing,APAC,Contractor,Active
+1526,U01526,Neha Chatterjee,Procurement,Sourcing,EMEA,Employee,Active
+1527,U01527,Vikram Chatterjee,Finance,Accounts Receivable,EMEA,Employee,Active
+1528,U01528,Ishita Chatterjee,Sales,Customer Service,APAC,Employee,Active
+1529,U01529,Karan Chatterjee,Finance,Treasury,NORAM,Employee,Inactive
+1530,U01530,Meera Chatterjee,IT,Application Support,EMEA,Employee,Active
+1531,U01531,Rahul Chatterjee,GBS,Business Operations,APAC,Employee,Active
+1532,U01532,Sneha Chatterjee,HR,Payroll,APAC,Employee,Active
+1533,U01533,Aditya Chatterjee,Finance,Accounts Payable,LATAM,Employee,Active
+1534,U01534,Nisha Chatterjee,GBS,Shared Services,APAC,Employee,Active
+1535,U01535,Sanjay Chatterjee,Procurement,Sourcing,NORAM,Employee,Active
+1536,U01536,Kavya Chatterjee,GBS,Master Data,APAC,Employee,Active
+1537,U01537,Amit Chatterjee,IT,Application Support,NORAM,Contractor,Active
+1538,U01538,Pooja Chatterjee,IT,Infrastructure,APAC,Employee,Active
+1539,U01539,Varun Chatterjee,IT,Infrastructure,EMEA,Employee,Active
+1540,U01540,Riya Chatterjee,Procurement,Purchasing,LATAM,Employee,Active
+1541,U01541,Aarav Sen,Procurement,Purchasing,EMEA,Employee,Active
+1542,U01542,Anika Sen,IT,Infrastructure,LATAM,Employee,Inactive
+1543,U01543,Rohan Sen,Procurement,Purchasing,EMEA,Employee,Active
+1544,U01544,Priya Sen,Sales,Customer Service,NORAM,Employee,Active
+1545,U01545,Arjun Sen,IT,IT Operations,EMEA,Service Account,Active
+1546,U01546,Neha Sen,HR,HR Systems,NORAM,Employee,Active
+1547,U01547,Vikram Sen,HR,HR Operations,LATAM,Employee,Active
+1548,U01548,Ishita Sen,HR,Payroll,EMEA,Employee,Active
+1549,U01549,Karan Sen,Sales,Commercial,EMEA,Employee,Active
+1550,U01550,Meera Sen,Procurement,Sourcing,APAC,Contractor,Active
+1551,U01551,Rahul Sen,Finance,Financial Reporting,APAC,Employee,Active
+1552,U01552,Sneha Sen,GBS,Business Operations,LATAM,Employee,Active
+1553,U01553,Aditya Sen,Procurement,Procurement Operations,EMEA,Employee,Inactive
+1554,U01554,Nisha Sen,Finance,Financial Reporting,APAC,Employee,Active
+1555,U01555,Sanjay Sen,Sales,Commercial,NORAM,Employee,Active
+1556,U01556,Kavya Sen,GBS,Business Operations,NORAM,Employee,Active
+1557,U01557,Amit Sen,HR,HR Operations,LATAM,Employee,Active
+1558,U01558,Pooja Sen,Finance,Financial Reporting,APAC,Employee,Inactive
+1559,U01559,Varun Sen,GBS,Reporting Services,NORAM,Employee,Active
+1560,U01560,Riya Sen,Sales,Order Management,APAC,Employee,Active
+1561,U01561,Aarav Malhotra,GBS,Reporting Services,APAC,Employee,Active
+1562,U01562,Anika Malhotra,Sales,Commercial,EMEA,Employee,Active
+1563,U01563,Rohan Malhotra,GBS,Business Operations,APAC,Employee,Active
+1564,U01564,Priya Malhotra,Finance,Accounts Payable,EMEA,Employee,Active
+1565,U01565,Arjun Malhotra,GBS,Shared Services,NORAM,Employee,Active
+1566,U01566,Neha Malhotra,Procurement,Procurement Operations,LATAM,Service Account,Active
+1567,U01567,Vikram Malhotra,Procurement,Purchasing,APAC,Service Account,Active
+1568,U01568,Ishita Malhotra,Procurement,Vendor Management,EMEA,Employee,Active
+1569,U01569,Karan Malhotra,GBS,Business Operations,EMEA,Employee,Active
+1570,U01570,Meera Malhotra,Finance,Accounts Payable,APAC,Employee,Active
+1571,U01571,Rahul Malhotra,GBS,Business Operations,LATAM,Employee,Active
+1572,U01572,Sneha Malhotra,IT,Infrastructure,APAC,Employee,Active
+1573,U01573,Aditya Malhotra,IT,Application Support,APAC,Service Account,Active
+1574,U01574,Nisha Malhotra,GBS,Master Data,NORAM,Employee,Active
+1575,U01575,Sanjay Malhotra,Procurement,Procurement Operations,NORAM,Employee,Active
+1576,U01576,Kavya Malhotra,Finance,Financial Reporting,APAC,Employee,Active
+1577,U01577,Amit Malhotra,GBS,Master Data,NORAM,Employee,Active
+1578,U01578,Pooja Malhotra,Procurement,Procurement Operations,APAC,Employee,Active
+1579,U01579,Varun Malhotra,Procurement,Procurement Operations,APAC,Employee,Inactive
+1580,U01580,Riya Malhotra,HR,Talent Management,EMEA,Employee,Active
+1581,U01581,Aarav Sinha,GBS,Reporting Services,NORAM,Employee,Active
+1582,U01582,Anika Sinha,GBS,Reporting Services,EMEA,Employee,Active
+1583,U01583,Rohan Sinha,IT,IT Operations,APAC,Contractor,Active
+1584,U01584,Priya Sinha,Procurement,Purchasing,LATAM,Employee,Active
+1585,U01585,Arjun Sinha,GBS,Master Data,EMEA,Employee,Active
+1586,U01586,Neha Sinha,Sales,Sales Operations,APAC,Employee,Active
+1587,U01587,Vikram Sinha,Procurement,Purchasing,APAC,Employee,Active
+1588,U01588,Ishita Sinha,IT,Infrastructure,APAC,Employee,Active
+1589,U01589,Karan Sinha,Procurement,Purchasing,NORAM,Employee,Active
+1590,U01590,Meera Sinha,IT,IT Operations,LATAM,Employee,Active
+1591,U01591,Rahul Sinha,IT,Application Support,LATAM,Employee,Active
+1592,U01592,Sneha Sinha,HR,HR Systems,EMEA,Employee,Active
+1593,U01593,Aditya Sinha,GBS,Shared Services,NORAM,Employee,Active
+1594,U01594,Nisha Sinha,Finance,Accounts Receivable,EMEA,Employee,Active
+1595,U01595,Sanjay Sinha,HR,HR Systems,APAC,Employee,Active
+1596,U01596,Kavya Sinha,GBS,Master Data,APAC,Employee,Active
+1597,U01597,Amit Sinha,IT,Application Support,APAC,Employee,Active
+1598,U01598,Pooja Sinha,Procurement,Purchasing,APAC,Employee,Active
+1599,U01599,Varun Sinha,Procurement,Vendor Management,EMEA,Employee,Active
+1600,U01600,Riya Sinha,Finance,Financial Reporting,LATAM,Employee,Active
+1601,U01601,Aarav Sharma,Procurement,Purchasing,APAC,Service Account,Active
+1602,U01602,Anika Sharma,Sales,Sales Operations,EMEA,Employee,Active
+1603,U01603,Rohan Sharma,HR,Talent Management,NORAM,Employee,Active
+1604,U01604,Priya Sharma,GBS,Reporting Services,APAC,Employee,Active
+1605,U01605,Arjun Sharma,Procurement,Sourcing,APAC,Employee,Active
+1606,U01606,Neha Sharma,Finance,Accounts Payable,NORAM,Employee,Inactive
+1607,U01607,Vikram Sharma,Procurement,Procurement Operations,LATAM,Employee,Active
+1608,U01608,Ishita Sharma,Finance,Accounts Payable,APAC,Employee,Active
+1609,U01609,Karan Sharma,Procurement,Vendor Management,EMEA,Employee,Active
+1610,U01610,Meera Sharma,Procurement,Vendor Management,NORAM,Employee,Active
+1611,U01611,Rahul Sharma,GBS,Shared Services,APAC,Employee,Active
+1612,U01612,Sneha Sharma,Sales,Commercial,EMEA,Employee,Active
+1613,U01613,Aditya Sharma,Sales,Customer Service,EMEA,Contractor,Active
+1614,U01614,Nisha Sharma,Finance,Accounts Payable,LATAM,Employee,Active
+1615,U01615,Sanjay Sharma,Finance,Treasury,APAC,Employee,Active
+1616,U01616,Kavya Sharma,GBS,Reporting Services,APAC,Contractor,Active
+1617,U01617,Amit Sharma,Finance,Treasury,NORAM,Employee,Active
+1618,U01618,Pooja Sharma,IT,Security Administration,EMEA,Employee,Active
+1619,U01619,Varun Sharma,Finance,Financial Reporting,APAC,Contractor,Active
+1620,U01620,Riya Sharma,IT,Security Administration,APAC,Employee,Active
+1621,U01621,Aarav Patel,Procurement,Sourcing,NORAM,Employee,Active
+1622,U01622,Anika Patel,GBS,Master Data,NORAM,Employee,Active
+1623,U01623,Rohan Patel,HR,HR Operations,NORAM,Contractor,Active
+1624,U01624,Priya Patel,Sales,Sales Operations,EMEA,Employee,Active
+1625,U01625,Arjun Patel,Finance,Accounts Payable,EMEA,Employee,Active
+1626,U01626,Neha Patel,HR,Payroll,APAC,Employee,Active
+1627,U01627,Vikram Patel,GBS,Shared Services,APAC,Employee,Inactive
+1628,U01628,Ishita Patel,Sales,Sales Operations,LATAM,Employee,Active
+1629,U01629,Karan Patel,GBS,Master Data,APAC,Employee,Active
+1630,U01630,Meera Patel,GBS,Master Data,APAC,Employee,Active
+1631,U01631,Rahul Patel,GBS,Shared Services,EMEA,Employee,Active
+1632,U01632,Sneha Patel,Sales,Customer Service,APAC,Contractor,Inactive
+1633,U01633,Aditya Patel,Procurement,Vendor Management,APAC,Employee,Active
+1634,U01634,Nisha Patel,Finance,Financial Reporting,APAC,Employee,Active
+1635,U01635,Sanjay Patel,HR,HR Operations,EMEA,Employee,Active
+1636,U01636,Kavya Patel,Procurement,Purchasing,NORAM,Employee,Active
+1637,U01637,Amit Patel,GBS,Master Data,APAC,Employee,Active
+1638,U01638,Pooja Patel,IT,IT Operations,LATAM,Contractor,Active
+1639,U01639,Varun Patel,GBS,Business Operations,NORAM,Employee,Active
+1640,U01640,Riya Patel,Finance,Financial Reporting,LATAM,Employee,Active
+1641,U01641,Aarav Singh,Procurement,Vendor Management,LATAM,Employee,Active
+1642,U01642,Anika Singh,IT,Application Support,EMEA,Employee,Inactive
+1643,U01643,Rohan Singh,Procurement,Procurement Operations,APAC,Employee,Active
+1644,U01644,Priya Singh,GBS,Master Data,LATAM,Employee,Active
+1645,U01645,Arjun Singh,GBS,Shared Services,EMEA,Employee,Active
+1646,U01646,Neha Singh,Sales,Commercial,EMEA,Employee,Active
+1647,U01647,Vikram Singh,HR,HR Systems,APAC,Employee,Active
+1648,U01648,Ishita Singh,Finance,Financial Reporting,EMEA,Employee,Active
+1649,U01649,Karan Singh,Procurement,Sourcing,EMEA,Employee,Active
+1650,U01650,Meera Singh,Finance,Treasury,APAC,Employee,Active
+1651,U01651,Rahul Singh,Finance,Financial Reporting,APAC,Employee,Active
+1652,U01652,Sneha Singh,GBS,Business Operations,EMEA,Employee,Active
+1653,U01653,Aditya Singh,Finance,Accounts Receivable,APAC,Employee,Active
+1654,U01654,Nisha Singh,GBS,Master Data,LATAM,Employee,Active
+1655,U01655,Sanjay Singh,Finance,Financial Reporting,NORAM,Employee,Active
+1656,U01656,Kavya Singh,Sales,Order Management,EMEA,Employee,Active
+1657,U01657,Amit Singh,Sales,Order Management,LATAM,Employee,Active
+1658,U01658,Pooja Singh,GBS,Reporting Services,APAC,Employee,Active
+1659,U01659,Varun Singh,HR,Talent Management,LATAM,Contractor,Inactive
+1660,U01660,Riya Singh,Procurement,Sourcing,APAC,Employee,Active
+1661,U01661,Aarav Das,Finance,Treasury,APAC,Employee,Active
+1662,U01662,Anika Das,Sales,Commercial,EMEA,Employee,Active
+1663,U01663,Rohan Das,GBS,Reporting Services,LATAM,Employee,Active
+1664,U01664,Priya Das,Procurement,Vendor Management,NORAM,Employee,Inactive
+1665,U01665,Arjun Das,Finance,Accounts Payable,LATAM,Service Account,Active
+1666,U01666,Neha Das,Finance,Accounts Payable,LATAM,Employee,Active
+1667,U01667,Vikram Das,Sales,Customer Service,APAC,Employee,Active
+1668,U01668,Ishita Das,Finance,Financial Reporting,EMEA,Employee,Active
+1669,U01669,Karan Das,GBS,Reporting Services,EMEA,Employee,Active
+1670,U01670,Meera Das,Sales,Commercial,APAC,Employee,Active
+1671,U01671,Rahul Das,Sales,Order Management,NORAM,Employee,Inactive
+1672,U01672,Sneha Das,Finance,Treasury,APAC,Employee,Active
+1673,U01673,Aditya Das,Finance,Accounts Payable,NORAM,Employee,Active
+1674,U01674,Nisha Das,Finance,Accounts Payable,APAC,Employee,Active
+1675,U01675,Sanjay Das,Finance,Accounts Receivable,LATAM,Employee,Active
+1676,U01676,Kavya Das,Finance,Accounts Receivable,APAC,Contractor,Active
+1677,U01677,Amit Das,HR,Payroll,EMEA,Employee,Active
+1678,U01678,Pooja Das,Finance,Treasury,APAC,Employee,Active
+1679,U01679,Varun Das,IT,Infrastructure,APAC,Employee,Active
+1680,U01680,Riya Das,Procurement,Purchasing,APAC,Employee,Active
+1681,U01681,Aarav Roy,GBS,Shared Services,APAC,Employee,Active
+1682,U01682,Anika Roy,GBS,Master Data,APAC,Employee,Active
+1683,U01683,Rohan Roy,GBS,Shared Services,LATAM,Employee,Active
+1684,U01684,Priya Roy,Finance,Financial Reporting,LATAM,Contractor,Inactive
+1685,U01685,Arjun Roy,Finance,Treasury,APAC,Employee,Active
+1686,U01686,Neha Roy,IT,Application Support,EMEA,Employee,Active
+1687,U01687,Vikram Roy,GBS,Reporting Services,EMEA,Employee,Active
+1688,U01688,Ishita Roy,GBS,Reporting Services,NORAM,Employee,Active
+1689,U01689,Karan Roy,Procurement,Vendor Management,EMEA,Employee,Active
+1690,U01690,Meera Roy,GBS,Reporting Services,EMEA,Employee,Active
+1691,U01691,Rahul Roy,GBS,Reporting Services,APAC,Employee,Active
+1692,U01692,Sneha Roy,IT,IT Operations,NORAM,Employee,Active
+1693,U01693,Aditya Roy,Sales,Commercial,APAC,Employee,Active
+1694,U01694,Nisha Roy,GBS,Business Operations,APAC,Employee,Active
+1695,U01695,Sanjay Roy,Finance,Treasury,APAC,Contractor,Active
+1696,U01696,Kavya Roy,Finance,Accounts Receivable,NORAM,Employee,Active
+1697,U01697,Amit Roy,GBS,Reporting Services,APAC,Employee,Active
+1698,U01698,Pooja Roy,GBS,Reporting Services,EMEA,Employee,Inactive
+1699,U01699,Varun Roy,GBS,Shared Services,NORAM,Employee,Active
+1700,U01700,Riya Roy,Finance,Accounts Receivable,EMEA,Employee,Active
+1701,U01701,Aarav Gupta,GBS,Business Operations,EMEA,Employee,Active
+1702,U01702,Anika Gupta,IT,Security Administration,NORAM,Employee,Active
+1703,U01703,Rohan Gupta,HR,HR Systems,LATAM,Employee,Active
+1704,U01704,Priya Gupta,Finance,Accounts Receivable,EMEA,Employee,Active
+1705,U01705,Arjun Gupta,HR,Talent Management,LATAM,Employee,Active
+1706,U01706,Neha Gupta,Sales,Customer Service,EMEA,Employee,Active
+1707,U01707,Vikram Gupta,GBS,Shared Services,LATAM,Service Account,Active
+1708,U01708,Ishita Gupta,Sales,Commercial,LATAM,Employee,Active
+1709,U01709,Karan Gupta,Sales,Sales Operations,APAC,Employee,Inactive
+1710,U01710,Meera Gupta,Sales,Customer Service,EMEA,Employee,Active
+1711,U01711,Rahul Gupta,HR,Payroll,NORAM,Employee,Active
+1712,U01712,Sneha Gupta,Finance,Accounts Receivable,EMEA,Employee,Active
+1713,U01713,Aditya Gupta,Sales,Commercial,APAC,Employee,Active
+1714,U01714,Nisha Gupta,IT,Infrastructure,EMEA,Employee,Active
+1715,U01715,Sanjay Gupta,Procurement,Sourcing,APAC,Employee,Active
+1716,U01716,Kavya Gupta,IT,Application Support,EMEA,Employee,Active
+1717,U01717,Amit Gupta,Finance,Financial Reporting,LATAM,Employee,Active
+1718,U01718,Pooja Gupta,Procurement,Purchasing,EMEA,Employee,Active
+1719,U01719,Varun Gupta,Sales,Order Management,APAC,Employee,Active
+1720,U01720,Riya Gupta,IT,Application Support,EMEA,Employee,Active
+1721,U01721,Aarav Mehta,Sales,Commercial,NORAM,Contractor,Active
+1722,U01722,Anika Mehta,HR,Payroll,EMEA,Employee,Active
+1723,U01723,Rohan Mehta,GBS,Master Data,APAC,Contractor,Active
+1724,U01724,Priya Mehta,Sales,Commercial,LATAM,Employee,Inactive
+1725,U01725,Arjun Mehta,Procurement,Purchasing,APAC,Contractor,Active
+1726,U01726,Neha Mehta,Procurement,Vendor Management,EMEA,Employee,Active
+1727,U01727,Vikram Mehta,Procurement,Purchasing,NORAM,Employee,Active
+1728,U01728,Ishita Mehta,Finance,Treasury,LATAM,Employee,Active
+1729,U01729,Karan Mehta,Procurement,Purchasing,APAC,Employee,Active
+1730,U01730,Meera Mehta,Procurement,Procurement Operations,EMEA,Employee,Active
+1731,U01731,Rahul Mehta,GBS,Master Data,NORAM,Employee,Active
+1732,U01732,Sneha Mehta,IT,Infrastructure,EMEA,Employee,Active
+1733,U01733,Aditya Mehta,HR,HR Operations,APAC,Contractor,Active
+1734,U01734,Nisha Mehta,Procurement,Vendor Management,APAC,Employee,Active
+1735,U01735,Sanjay Mehta,Sales,Order Management,NORAM,Employee,Active
+1736,U01736,Kavya Mehta,GBS,Shared Services,APAC,Employee,Active
+1737,U01737,Amit Mehta,IT,Infrastructure,EMEA,Employee,Active
+1738,U01738,Pooja Mehta,IT,Application Support,LATAM,Employee,Active
+1739,U01739,Varun Mehta,HR,HR Systems,APAC,Service Account,Active
+1740,U01740,Riya Mehta,IT,Application Support,APAC,Employee,Active
+1741,U01741,Aarav Nair,GBS,Master Data,APAC,Employee,Active
+1742,U01742,Anika Nair,Procurement,Vendor Management,APAC,Employee,Active
+1743,U01743,Rohan Nair,Procurement,Procurement Operations,APAC,Employee,Active
+1744,U01744,Priya Nair,Finance,Treasury,APAC,Employee,Active
+1745,U01745,Arjun Nair,Procurement,Sourcing,EMEA,Employee,Active
+1746,U01746,Neha Nair,Sales,Customer Service,APAC,Employee,Active
+1747,U01747,Vikram Nair,Procurement,Vendor Management,NORAM,Employee,Inactive
+1748,U01748,Ishita Nair,Finance,Treasury,EMEA,Employee,Active
+1749,U01749,Karan Nair,Finance,Treasury,EMEA,Employee,Inactive
+1750,U01750,Meera Nair,Finance,Accounts Payable,APAC,Employee,Active
+1751,U01751,Rahul Nair,Finance,Accounts Payable,NORAM,Service Account,Active
+1752,U01752,Sneha Nair,Procurement,Vendor Management,APAC,Employee,Active
+1753,U01753,Aditya Nair,Finance,Financial Reporting,APAC,Employee,Active
+1754,U01754,Nisha Nair,IT,Application Support,EMEA,Contractor,Active
+1755,U01755,Sanjay Nair,Finance,Treasury,NORAM,Employee,Inactive
+1756,U01756,Kavya Nair,GBS,Master Data,APAC,Employee,Active
+1757,U01757,Amit Nair,GBS,Master Data,LATAM,Employee,Active
+1758,U01758,Pooja Nair,GBS,Reporting Services,EMEA,Employee,Active
+1759,U01759,Varun Nair,Finance,Financial Reporting,LATAM,Contractor,Active
+1760,U01760,Riya Nair,GBS,Master Data,APAC,Contractor,Active
+1761,U01761,Aarav Iyer,IT,Infrastructure,NORAM,Employee,Active
+1762,U01762,Anika Iyer,Finance,Accounts Receivable,APAC,Employee,Inactive
+1763,U01763,Rohan Iyer,IT,IT Operations,EMEA,Employee,Active
+1764,U01764,Priya Iyer,HR,Payroll,APAC,Employee,Active
+1765,U01765,Arjun Iyer,Procurement,Sourcing,APAC,Employee,Active
+1766,U01766,Neha Iyer,Sales,Customer Service,EMEA,Employee,Active
+1767,U01767,Vikram Iyer,Sales,Commercial,LATAM,Employee,Active
+1768,U01768,Ishita Iyer,GBS,Master Data,APAC,Employee,Active
+1769,U01769,Karan Iyer,Procurement,Purchasing,APAC,Contractor,Active
+1770,U01770,Meera Iyer,Procurement,Purchasing,NORAM,Employee,Active
+1771,U01771,Rahul Iyer,GBS,Reporting Services,NORAM,Employee,Inactive
+1772,U01772,Sneha Iyer,HR,Talent Management,APAC,Employee,Inactive
+1773,U01773,Aditya Iyer,IT,Infrastructure,NORAM,Contractor,Active
+1774,U01774,Nisha Iyer,Sales,Commercial,EMEA,Contractor,Active
+1775,U01775,Sanjay Iyer,GBS,Reporting Services,APAC,Contractor,Active
+1776,U01776,Kavya Iyer,IT,IT Operations,LATAM,Employee,Active
+1777,U01777,Amit Iyer,Finance,Accounts Receivable,APAC,Employee,Active
+1778,U01778,Pooja Iyer,Sales,Commercial,APAC,Contractor,Active
+1779,U01779,Varun Iyer,GBS,Business Operations,APAC,Employee,Active
+1780,U01780,Riya Iyer,Sales,Sales Operations,NORAM,Employee,Active
+1781,U01781,Aarav Kapoor,GBS,Reporting Services,NORAM,Employee,Inactive
+1782,U01782,Anika Kapoor,Procurement,Vendor Management,NORAM,Employee,Active
+1783,U01783,Rohan Kapoor,HR,Talent Management,APAC,Contractor,Active
+1784,U01784,Priya Kapoor,Procurement,Sourcing,EMEA,Employee,Active
+1785,U01785,Arjun Kapoor,GBS,Business Operations,EMEA,Employee,Active
+1786,U01786,Neha Kapoor,Procurement,Vendor Management,APAC,Contractor,Active
+1787,U01787,Vikram Kapoor,Sales,Commercial,NORAM,Employee,Active
+1788,U01788,Ishita Kapoor,GBS,Shared Services,EMEA,Contractor,Active
+1789,U01789,Karan Kapoor,IT,Security Administration,EMEA,Employee,Active
+1790,U01790,Meera Kapoor,IT,IT Operations,LATAM,Employee,Active
+1791,U01791,Rahul Kapoor,HR,HR Operations,APAC,Employee,Active
+1792,U01792,Sneha Kapoor,HR,Talent Management,APAC,Employee,Active
+1793,U01793,Aditya Kapoor,GBS,Master Data,APAC,Employee,Active
+1794,U01794,Nisha Kapoor,GBS,Shared Services,EMEA,Employee,Active
+1795,U01795,Sanjay Kapoor,Sales,Commercial,EMEA,Employee,Active
+1796,U01796,Kavya Kapoor,GBS,Business Operations,LATAM,Employee,Active
+1797,U01797,Amit Kapoor,Finance,Financial Reporting,APAC,Employee,Active
+1798,U01798,Pooja Kapoor,Finance,Financial Reporting,EMEA,Employee,Active
+1799,U01799,Varun Kapoor,Finance,Accounts Payable,LATAM,Employee,Active
+1800,U01800,Riya Kapoor,Finance,Accounts Receivable,EMEA,Employee,Active

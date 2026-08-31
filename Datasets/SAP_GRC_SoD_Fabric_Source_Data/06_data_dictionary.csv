@@ -1,0 +1,37 @@
+SourceFile,Column,Meaning,GoldMapping
+01_sod_risk_assessment.csv,AssessmentRecordID,Source assessment record identifier,Fact_SoDConflict
+01_sod_risk_assessment.csv,ReviewID,Annual SoD review identifier,Dim_RiskReview + Fact
+01_sod_risk_assessment.csv,UserID,User/business identifier,Dim_User + Fact
+01_sod_risk_assessment.csv,RiskID,SoD risk identifier,Dim_Risk + Fact
+01_sod_risk_assessment.csv,SystemID,SAP system identifier,Dim_System + Fact
+01_sod_risk_assessment.csv,ConflictDetectedDate,Date risk was detected,Fact_SoDConflict
+02_user_master.csv,UserID,User/business identifier,Dim_User
+02_user_master.csv,BusinessUnit,Organizational business unit,Dim_User
+02_user_master.csv,Department,Department,Dim_User
+02_user_master.csv,Region,APAC/EMEA/NORAM/LATAM,Dim_User
+02_user_master.csv,UserType,Employee/Contractor/Service Account,Dim_User
+02_user_master.csv,ActiveStatus,Active/Inactive,Dim_User
+03_risk_master.csv,RiskID,Business risk identifier,Dim_Risk
+03_risk_master.csv,RiskName,Human-readable risk name,Dim_Risk
+03_risk_master.csv,RiskLevel,Critical/High/Medium/Low,Dim_Risk
+03_risk_master.csv,BusinessProcess,SAP-style process,Dim_Risk
+03_risk_master.csv,RiskDescription,Business explanation,Dim_Risk
+03_risk_master.csv,Function1,First conflicting function,Dim_Risk
+03_risk_master.csv,Function2,Second conflicting function,Dim_Risk
+04_role_conflict_assignment.csv,AssessmentRecordID,Assessment/conflict source identifier,Bridge_ConflictRole
+04_role_conflict_assignment.csv,UserID,User identifier,Bridge reconciliation
+04_role_conflict_assignment.csv,RiskID,Risk identifier,Bridge reconciliation
+04_role_conflict_assignment.csv,RoleKey,Role identifier,Bridge_ConflictRole + Dim_Role
+05_system_master.csv,SystemID,System identifier,Dim_System
+05_system_master.csv,SystemName,System name,Dim_System
+07_role_master.csv,RoleKey,Role identifier,Dim_Role
+07_role_master.csv,RoleID,Business role identifier,Dim_Role
+07_role_master.csv,RoleName,Role name,Dim_Role
+07_role_master.csv,RoleType,Business/Composite/Technical,Dim_Role
+07_role_master.csv,SAPModule,FI/MM/SD/HCM/BW/CRM/Security/Basis,Dim_Role
+07_role_master.csv,RiskIndicator,Green/Red source role indicator,Dim_Role
+08_risk_review_master.csv,ReviewKey,Review surrogate/reference key,Dim_RiskReview
+08_risk_review_master.csv,ReviewID,Annual review identifier,Dim_RiskReview
+08_risk_review_master.csv,ReviewName,Review name,Dim_RiskReview
+08_risk_review_master.csv,ReviewYear,Annual review year,Dim_RiskReview
+08_risk_review_master.csv,ReviewDate,Assessment date,Dim_RiskReview
