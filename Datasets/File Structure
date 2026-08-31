@@ -1,0 +1,13 @@
+Files
+│
+├── Bronze
+│   ├── 01_sod_risk_assessment.csv
+│   ├── 02_user_master.csv
+│   ├── 03_risk_master.csv
+│   ├── 04_role_conflict_assignment.csv
+│   ├── 05_system_master.csv
+│   ├── 07_role_master.csv
+│   └── 08_risk_review_master.csv
+│
+└── Documentation
+    └── 06_data_dictionary.csv
