@@ -32,3 +32,7 @@ Small numbers of duplicate rows, whitespace issues and blank system IDs are incl
 
 ## Scope
 Phase 1 focuses on SoD conflict/risk analytics. Transaction/action-level analysis is deferred.
+
+## Report Page 1 : Overview
+<img width="1320" height="747" alt="image" src="https://github.com/user-attachments/assets/f31e8084-09a7-4e01-bc66-eeeae141ba2d" />
+
