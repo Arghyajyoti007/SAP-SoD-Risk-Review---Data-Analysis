@@ -36,3 +36,5 @@ Phase 1 focuses on SoD conflict/risk analytics. Transaction/action-level analysi
 ## Report Page 1 : Overview
 <img width="1320" height="747" alt="image" src="https://github.com/user-attachments/assets/f31e8084-09a7-4e01-bc66-eeeae141ba2d" />
 
+## Report Page 2 : Investigation
+<img width="1200" height="673" alt="image" src="https://github.com/user-attachments/assets/caf03a22-3317-4888-bf4b-9e00b4e02bc8" />
