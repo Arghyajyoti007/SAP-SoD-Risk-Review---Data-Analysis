@@ -31,7 +31,8 @@ Dim_Role
 Small numbers of duplicate rows, whitespace issues and blank system IDs are included for data-quality validation and cleansing. They are intentionally limited so they do not dominate the project.
 
 ## Scope
-Phase 1 focuses on SoD conflict/risk analytics. Transaction/action-level analysis is deferred.
+Phase 1 focuses on SoD conflict/risk analytics. Transaction/action-level analysis is deferred.<img width="1821" height="805" alt="image" src="https://github.com/user-attachments/assets/b5f0faf8-897c-4fef-8aa2-74fb52d67da0" />
+
 
 ## Report Page 1 : Overview
 <img width="1322" height="746" alt="image" src="https://github.com/user-attachments/assets/fbb2dc91-cd13-492a-8310-2149a2fb9326" />
