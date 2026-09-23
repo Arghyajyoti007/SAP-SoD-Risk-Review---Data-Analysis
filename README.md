@@ -3,7 +3,7 @@
 Synthetic SAP-compatible source data for a Microsoft Fabric Medallion Architecture portfolio project.
   
 ## Business scenario
-One formal SoD risk review per year from 2022 through 2026.
+One formal SoD risk review per year from 2022 through 2026. 
 Embedded storyline: higher baseline exposure -> moderate improvement -> some new exposure -> stronger remediation -> lower overall exposure with persistent Critical/High conflicts.
 
 ## Source files
