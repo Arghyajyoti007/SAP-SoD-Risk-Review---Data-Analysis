@@ -1,4 +1,4 @@
-# SAP GRC SoD Risk Analytics — Synthetic Source Data
+# SAP GRC SoD Risk Analytics — Synthetic Source Data 
  
 Synthetic SAP-compatible source data for a Microsoft Fabric Medallion Architecture portfolio project.
   
