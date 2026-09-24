@@ -1,6 +1,6 @@
 # SAP GRC SoD Risk Analytics — Synthetic Source Data 
  
-Synthetic SAP-compatible source data for a Microsoft Fabric Medallion Architecture portfolio project.
+Synthetic SAP-compatible source data for a Microsoft Fabric Medallion Architecture portfolio project.  
   
 ## Business scenario
 One formal SoD risk review per year from 2022 through 2026.     
