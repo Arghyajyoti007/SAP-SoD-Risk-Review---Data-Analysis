@@ -1,4 +1,4 @@
-# SAP SoD Risk Review & Data Analysis
+# SAP SoD Risk Review & Data Analysis   
 
 A portfolio project built around a simple SAP GRC SoD (Segregation of Duties) risk review scenario.
 
